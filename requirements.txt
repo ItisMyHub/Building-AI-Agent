@@ -1,0 +1,5 @@
+flask
+langchain-community
+sentence-transformers
+numpy
+faiss-cpu

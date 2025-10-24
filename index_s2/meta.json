@@ -1,0 +1,3845 @@
+{
+  "count": 640,
+  "metadata": [
+    {
+      "source": "customers__id_1.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 1 **id**: 1 **name**: Bob 1 **country**: US **signup_date**: 2025-05-21"
+    },
+    {
+      "source": "customers__id_10.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 10 **id**: 10 **name**: Henry 10 **country**: SE **signup_date**: 2025-05-19"
+    },
+    {
+      "source": "customers__id_11.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 11 **id**: 11 **name**: Alice 11 **country**: UK **signup_date**: 2024-10-16"
+    },
+    {
+      "source": "customers__id_12.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 12 **id**: 12 **name**: Grace 12 **country**: DE **signup_date**: 2025-05-19"
+    },
+    {
+      "source": "customers__id_13.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 13 **id**: 13 **name**: Carol 13 **country**: UK **signup_date**: 2025-04-19"
+    },
+    {
+      "source": "customers__id_14.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 14 **id**: 14 **name**: Bob 14 **country**: US **signup_date**: 2025-03-28"
+    },
+    {
+      "source": "customers__id_15.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 15 **id**: 15 **name**: Bob 15 **country**: DE **signup_date**: 2025-04-15"
+    },
+    {
+      "source": "customers__id_16.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 16 **id**: 16 **name**: Jack 16 **country**: DE **signup_date**: 2025-09-16"
+    },
+    {
+      "source": "customers__id_17.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 17 **id**: 17 **name**: Henry 17 **country**: SE **signup_date**: 2025-08-06"
+    },
+    {
+      "source": "customers__id_18.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 18 **id**: 18 **name**: Grace 18 **country**: US **signup_date**: 2024-12-30"
+    },
+    {
+      "source": "customers__id_19.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 19 **id**: 19 **name**: Eva 19 **country**: FR **signup_date**: 2024-11-26"
+    },
+    {
+      "source": "customers__id_2.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 2 **id**: 2 **name**: David 2 **country**: UK **signup_date**: 2025-07-29"
+    },
+    {
+      "source": "customers__id_20.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 20 **id**: 20 **name**: Frank 20 **country**: SE **signup_date**: 2025-07-02"
+    },
+    {
+      "source": "customers__id_21.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 21 **id**: 21 **name**: Bob 21 **country**: US **signup_date**: 2024-11-04"
+    },
+    {
+      "source": "customers__id_22.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 22 **id**: 22 **name**: David 22 **country**: DE **signup_date**: 2025-08-29"
+    },
+    {
+      "source": "customers__id_23.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 23 **id**: 23 **name**: David 23 **country**: US **signup_date**: 2025-03-28"
+    },
+    {
+      "source": "customers__id_24.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 24 **id**: 24 **name**: Eva 24 **country**: FI **signup_date**: 2024-11-17"
+    },
+    {
+      "source": "customers__id_25.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 25 **id**: 25 **name**: Frank 25 **country**: UK **signup_date**: 2025-04-02"
+    },
+    {
+      "source": "customers__id_26.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 26 **id**: 26 **name**: Frank 26 **country**: UK **signup_date**: 2024-10-30"
+    },
+    {
+      "source": "customers__id_27.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 27 **id**: 27 **name**: Eva 27 **country**: FR **signup_date**: 2024-10-24"
+    },
+    {
+      "source": "customers__id_28.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 28 **id**: 28 **name**: Bob 28 **country**: SE **signup_date**: 2024-11-17"
+    },
+    {
+      "source": "customers__id_29.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 29 **id**: 29 **name**: Carol 29 **country**: SE **signup_date**: 2025-06-05"
+    },
+    {
+      "source": "customers__id_3.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 3 **id**: 3 **name**: Bob 3 **country**: FR **signup_date**: 2025-01-02"
+    },
+    {
+      "source": "customers__id_30.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 30 **id**: 30 **name**: Carol 30 **country**: FI **signup_date**: 2025-03-28"
+    },
+    {
+      "source": "customers__id_4.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 4 **id**: 4 **name**: Bob 4 **country**: SE **signup_date**: 2025-03-06"
+    },
+    {
+      "source": "customers__id_5.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 5 **id**: 5 **name**: Alice 5 **country**: US **signup_date**: 2025-08-22"
+    },
+    {
+      "source": "customers__id_6.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 6 **id**: 6 **name**: David 6 **country**: UK **signup_date**: 2025-01-23"
+    },
+    {
+      "source": "customers__id_7.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 7 **id**: 7 **name**: Jack 7 **country**: US **signup_date**: 2024-12-25"
+    },
+    {
+      "source": "customers__id_8.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 8 **id**: 8 **name**: David 8 **country**: FR **signup_date**: 2024-11-10"
+    },
+    {
+      "source": "customers__id_9.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from customers: id = 9 **id**: 9 **name**: Isabel 9 **country**: FI **signup_date**: 2025-06-18"
+    },
+    {
+      "source": "order_items__order_id_1.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 1 **order_id**: 1 **product_id**: 1 **quantity**: 1 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_10.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 10 **order_id**: 10 **product_id**: 6 **quantity**: 3 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_100.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 100 **order_id**: 100 **product_id**: 3 **quantity**: 1 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_101.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 101 **order_id**: 101 **product_id**: 3 **quantity**: 2 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_102.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 102 **order_id**: 102 **product_id**: 4 **quantity**: 1 **unit_price**: 52.0"
+    },
+    {
+      "source": "order_items__order_id_103.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 103 **order_id**: 103 **product_id**: 3 **quantity**: 1 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_104.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 104 **order_id**: 104 **product_id**: 10 **quantity**: 3 **unit_price**: 15.0"
+    },
+    {
+      "source": "order_items__order_id_105.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 105 **order_id**: 105 **product_id**: 4 **quantity**: 2 **unit_price**: 52.0"
+    },
+    {
+      "source": "order_items__order_id_106.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 106 **order_id**: 106 **product_id**: 1 **quantity**: 2 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_107.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 107 **order_id**: 107 **product_id**: 9 **quantity**: 2 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_108.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 108 **order_id**: 108 **product_id**: 7 **quantity**: 2 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_109.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 109 **order_id**: 109 **product_id**: 9 **quantity**: 1 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_11.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 11 **order_id**: 11 **product_id**: 10 **quantity**: 2 **unit_price**: 15.0"
+    },
+    {
+      "source": "order_items__order_id_110.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 110 **order_id**: 110 **product_id**: 4 **quantity**: 2 **unit_price**: 52.0"
+    },
+    {
+      "source": "order_items__order_id_111.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 111 **order_id**: 111 **product_id**: 9 **quantity**: 2 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_112.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 112 **order_id**: 112 **product_id**: 6 **quantity**: 2 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_113.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 113 **order_id**: 113 **product_id**: 4 **quantity**: 2 **unit_price**: 52.0"
+    },
+    {
+      "source": "order_items__order_id_114.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 114 **order_id**: 114 **product_id**: 2 **quantity**: 3 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_115.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 115 **order_id**: 115 **product_id**: 9 **quantity**: 3 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_116.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 116 **order_id**: 116 **product_id**: 8 **quantity**: 3 **unit_price**: 34.5"
+    },
+    {
+      "source": "order_items__order_id_117.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 117 **order_id**: 117 **product_id**: 4 **quantity**: 2 **unit_price**: 52.0"
+    },
+    {
+      "source": "order_items__order_id_118.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 118 **order_id**: 118 **product_id**: 7 **quantity**: 2 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_119.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 119 **order_id**: 119 **product_id**: 9 **quantity**: 3 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_12.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 12 **order_id**: 12 **product_id**: 6 **quantity**: 2 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_120.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 120 **order_id**: 120 **product_id**: 3 **quantity**: 2 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_121.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 121 **order_id**: 121 **product_id**: 7 **quantity**: 2 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_122.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 122 **order_id**: 122 **product_id**: 4 **quantity**: 3 **unit_price**: 52.0"
+    },
+    {
+      "source": "order_items__order_id_123.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 123 **order_id**: 123 **product_id**: 1 **quantity**: 3 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_124.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 124 **order_id**: 124 **product_id**: 9 **quantity**: 3 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_125.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 125 **order_id**: 125 **product_id**: 8 **quantity**: 1 **unit_price**: 34.5"
+    },
+    {
+      "source": "order_items__order_id_126.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 126 **order_id**: 126 **product_id**: 9 **quantity**: 1 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_127.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 127 **order_id**: 127 **product_id**: 7 **quantity**: 3 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_128.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 128 **order_id**: 128 **product_id**: 10 **quantity**: 3 **unit_price**: 15.0"
+    },
+    {
+      "source": "order_items__order_id_129.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 129 **order_id**: 129 **product_id**: 3 **quantity**: 2 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_13.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 13 **order_id**: 13 **product_id**: 2 **quantity**: 3 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_130.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 130 **order_id**: 130 **product_id**: 3 **quantity**: 1 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_131.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 131 **order_id**: 131 **product_id**: 8 **quantity**: 2 **unit_price**: 34.5"
+    },
+    {
+      "source": "order_items__order_id_132.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 132 **order_id**: 132 **product_id**: 4 **quantity**: 2 **unit_price**: 52.0"
+    },
+    {
+      "source": "order_items__order_id_133.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 133 **order_id**: 133 **product_id**: 7 **quantity**: 3 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_134.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 134 **order_id**: 134 **product_id**: 10 **quantity**: 3 **unit_price**: 15.0"
+    },
+    {
+      "source": "order_items__order_id_135.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 135 **order_id**: 135 **product_id**: 6 **quantity**: 3 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_136.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 136 **order_id**: 136 **product_id**: 1 **quantity**: 1 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_137.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 137 **order_id**: 137 **product_id**: 5 **quantity**: 3 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_138.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 138 **order_id**: 138 **product_id**: 9 **quantity**: 3 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_139.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 139 **order_id**: 139 **product_id**: 8 **quantity**: 3 **unit_price**: 34.5"
+    },
+    {
+      "source": "order_items__order_id_14.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 14 **order_id**: 14 **product_id**: 8 **quantity**: 1 **unit_price**: 34.5"
+    },
+    {
+      "source": "order_items__order_id_140.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 140 **order_id**: 140 **product_id**: 8 **quantity**: 1 **unit_price**: 34.5"
+    },
+    {
+      "source": "order_items__order_id_141.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 141 **order_id**: 141 **product_id**: 7 **quantity**: 3 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_142.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 142 **order_id**: 142 **product_id**: 6 **quantity**: 1 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_143.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 143 **order_id**: 143 **product_id**: 2 **quantity**: 3 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_144.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 144 **order_id**: 144 **product_id**: 8 **quantity**: 1 **unit_price**: 34.5"
+    },
+    {
+      "source": "order_items__order_id_145.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 145 **order_id**: 145 **product_id**: 8 **quantity**: 3 **unit_price**: 34.5"
+    },
+    {
+      "source": "order_items__order_id_146.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 146 **order_id**: 146 **product_id**: 6 **quantity**: 2 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_147.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 147 **order_id**: 147 **product_id**: 9 **quantity**: 1 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_148.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 148 **order_id**: 148 **product_id**: 5 **quantity**: 2 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_149.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 149 **order_id**: 149 **product_id**: 1 **quantity**: 2 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_15.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 15 **order_id**: 15 **product_id**: 6 **quantity**: 3 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_150.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 150 **order_id**: 150 **product_id**: 9 **quantity**: 3 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_151.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 151 **order_id**: 151 **product_id**: 5 **quantity**: 3 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_152.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 152 **order_id**: 152 **product_id**: 1 **quantity**: 1 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_153.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 153 **order_id**: 153 **product_id**: 6 **quantity**: 1 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_154.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 154 **order_id**: 154 **product_id**: 9 **quantity**: 3 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_155.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 155 **order_id**: 155 **product_id**: 4 **quantity**: 1 **unit_price**: 52.0"
+    },
+    {
+      "source": "order_items__order_id_156.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 156 **order_id**: 156 **product_id**: 9 **quantity**: 2 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_157.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 157 **order_id**: 157 **product_id**: 3 **quantity**: 1 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_158.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 158 **order_id**: 158 **product_id**: 5 **quantity**: 3 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_159.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 159 **order_id**: 159 **product_id**: 9 **quantity**: 3 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_16.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 16 **order_id**: 16 **product_id**: 1 **quantity**: 3 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_160.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 160 **order_id**: 160 **product_id**: 3 **quantity**: 3 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_161.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 161 **order_id**: 161 **product_id**: 2 **quantity**: 1 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_162.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 162 **order_id**: 162 **product_id**: 7 **quantity**: 1 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_163.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 163 **order_id**: 163 **product_id**: 1 **quantity**: 3 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_164.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 164 **order_id**: 164 **product_id**: 7 **quantity**: 2 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_165.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 165 **order_id**: 165 **product_id**: 3 **quantity**: 1 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_166.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 166 **order_id**: 166 **product_id**: 7 **quantity**: 2 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_167.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 167 **order_id**: 167 **product_id**: 5 **quantity**: 1 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_168.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 168 **order_id**: 168 **product_id**: 1 **quantity**: 3 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_169.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 169 **order_id**: 169 **product_id**: 3 **quantity**: 3 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_17.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 17 **order_id**: 17 **product_id**: 2 **quantity**: 3 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_170.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 170 **order_id**: 170 **product_id**: 9 **quantity**: 1 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_171.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 171 **order_id**: 171 **product_id**: 9 **quantity**: 3 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_172.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 172 **order_id**: 172 **product_id**: 1 **quantity**: 1 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_173.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 173 **order_id**: 173 **product_id**: 3 **quantity**: 2 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_174.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 174 **order_id**: 174 **product_id**: 5 **quantity**: 2 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_175.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 175 **order_id**: 175 **product_id**: 4 **quantity**: 2 **unit_price**: 52.0"
+    },
+    {
+      "source": "order_items__order_id_176.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 176 **order_id**: 176 **product_id**: 2 **quantity**: 3 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_177.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 177 **order_id**: 177 **product_id**: 9 **quantity**: 1 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_178.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 178 **order_id**: 178 **product_id**: 1 **quantity**: 2 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_179.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 179 **order_id**: 179 **product_id**: 9 **quantity**: 2 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_18.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 18 **order_id**: 18 **product_id**: 1 **quantity**: 2 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_180.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 180 **order_id**: 180 **product_id**: 7 **quantity**: 2 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_181.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 181 **order_id**: 181 **product_id**: 4 **quantity**: 2 **unit_price**: 52.0"
+    },
+    {
+      "source": "order_items__order_id_182.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 182 **order_id**: 182 **product_id**: 7 **quantity**: 2 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_183.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 183 **order_id**: 183 **product_id**: 3 **quantity**: 3 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_184.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 184 **order_id**: 184 **product_id**: 10 **quantity**: 3 **unit_price**: 15.0"
+    },
+    {
+      "source": "order_items__order_id_185.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 185 **order_id**: 185 **product_id**: 3 **quantity**: 1 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_186.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 186 **order_id**: 186 **product_id**: 3 **quantity**: 2 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_187.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 187 **order_id**: 187 **product_id**: 2 **quantity**: 2 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_188.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 188 **order_id**: 188 **product_id**: 6 **quantity**: 2 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_189.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 189 **order_id**: 189 **product_id**: 1 **quantity**: 2 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_19.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 19 **order_id**: 19 **product_id**: 8 **quantity**: 3 **unit_price**: 34.5"
+    },
+    {
+      "source": "order_items__order_id_190.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 190 **order_id**: 190 **product_id**: 2 **quantity**: 3 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_191.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 191 **order_id**: 191 **product_id**: 4 **quantity**: 2 **unit_price**: 52.0"
+    },
+    {
+      "source": "order_items__order_id_192.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 192 **order_id**: 192 **product_id**: 8 **quantity**: 2 **unit_price**: 34.5"
+    },
+    {
+      "source": "order_items__order_id_193.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 193 **order_id**: 193 **product_id**: 4 **quantity**: 2 **unit_price**: 52.0"
+    },
+    {
+      "source": "order_items__order_id_194.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 194 **order_id**: 194 **product_id**: 10 **quantity**: 2 **unit_price**: 15.0"
+    },
+    {
+      "source": "order_items__order_id_195.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 195 **order_id**: 195 **product_id**: 6 **quantity**: 1 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_196.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 196 **order_id**: 196 **product_id**: 8 **quantity**: 1 **unit_price**: 34.5"
+    },
+    {
+      "source": "order_items__order_id_197.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 197 **order_id**: 197 **product_id**: 2 **quantity**: 2 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_198.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 198 **order_id**: 198 **product_id**: 2 **quantity**: 3 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_199.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 199 **order_id**: 199 **product_id**: 5 **quantity**: 2 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_2.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 2 **order_id**: 2 **product_id**: 10 **quantity**: 3 **unit_price**: 15.0"
+    },
+    {
+      "source": "order_items__order_id_20.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 20 **order_id**: 20 **product_id**: 2 **quantity**: 2 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_200.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 200 **order_id**: 200 **product_id**: 3 **quantity**: 1 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_201.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 201 **order_id**: 201 **product_id**: 6 **quantity**: 3 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_202.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 202 **order_id**: 202 **product_id**: 7 **quantity**: 3 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_203.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 203 **order_id**: 203 **product_id**: 5 **quantity**: 1 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_204.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 204 **order_id**: 204 **product_id**: 6 **quantity**: 2 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_205.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 205 **order_id**: 205 **product_id**: 2 **quantity**: 2 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_206.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 206 **order_id**: 206 **product_id**: 10 **quantity**: 1 **unit_price**: 15.0"
+    },
+    {
+      "source": "order_items__order_id_207.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 207 **order_id**: 207 **product_id**: 3 **quantity**: 1 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_208.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 208 **order_id**: 208 **product_id**: 10 **quantity**: 2 **unit_price**: 15.0"
+    },
+    {
+      "source": "order_items__order_id_209.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 209 **order_id**: 209 **product_id**: 6 **quantity**: 1 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_21.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 21 **order_id**: 21 **product_id**: 9 **quantity**: 1 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_210.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 210 **order_id**: 210 **product_id**: 6 **quantity**: 1 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_211.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 211 **order_id**: 211 **product_id**: 10 **quantity**: 1 **unit_price**: 15.0"
+    },
+    {
+      "source": "order_items__order_id_212.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 212 **order_id**: 212 **product_id**: 5 **quantity**: 1 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_213.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 213 **order_id**: 213 **product_id**: 3 **quantity**: 2 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_214.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 214 **order_id**: 214 **product_id**: 5 **quantity**: 3 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_215.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 215 **order_id**: 215 **product_id**: 7 **quantity**: 3 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_216.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 216 **order_id**: 216 **product_id**: 1 **quantity**: 3 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_217.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 217 **order_id**: 217 **product_id**: 3 **quantity**: 2 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_218.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 218 **order_id**: 218 **product_id**: 6 **quantity**: 2 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_219.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 219 **order_id**: 219 **product_id**: 10 **quantity**: 1 **unit_price**: 15.0"
+    },
+    {
+      "source": "order_items__order_id_22.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 22 **order_id**: 22 **product_id**: 8 **quantity**: 2 **unit_price**: 34.5"
+    },
+    {
+      "source": "order_items__order_id_220.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 220 **order_id**: 220 **product_id**: 8 **quantity**: 1 **unit_price**: 34.5"
+    },
+    {
+      "source": "order_items__order_id_221.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 221 **order_id**: 221 **product_id**: 4 **quantity**: 1 **unit_price**: 52.0"
+    },
+    {
+      "source": "order_items__order_id_222.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 222 **order_id**: 222 **product_id**: 1 **quantity**: 2 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_223.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 223 **order_id**: 223 **product_id**: 6 **quantity**: 3 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_224.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 224 **order_id**: 224 **product_id**: 9 **quantity**: 2 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_225.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 225 **order_id**: 225 **product_id**: 5 **quantity**: 1 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_226.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 226 **order_id**: 226 **product_id**: 7 **quantity**: 2 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_227.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 227 **order_id**: 227 **product_id**: 6 **quantity**: 3 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_228.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 228 **order_id**: 228 **product_id**: 2 **quantity**: 3 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_229.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 229 **order_id**: 229 **product_id**: 1 **quantity**: 3 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_23.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 23 **order_id**: 23 **product_id**: 7 **quantity**: 3 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_230.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 230 **order_id**: 230 **product_id**: 3 **quantity**: 1 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_231.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 231 **order_id**: 231 **product_id**: 1 **quantity**: 3 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_232.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 232 **order_id**: 232 **product_id**: 3 **quantity**: 2 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_233.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 233 **order_id**: 233 **product_id**: 1 **quantity**: 2 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_234.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 234 **order_id**: 234 **product_id**: 5 **quantity**: 2 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_235.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 235 **order_id**: 235 **product_id**: 5 **quantity**: 2 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_236.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 236 **order_id**: 236 **product_id**: 8 **quantity**: 3 **unit_price**: 34.5"
+    },
+    {
+      "source": "order_items__order_id_237.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 237 **order_id**: 237 **product_id**: 5 **quantity**: 3 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_238.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 238 **order_id**: 238 **product_id**: 9 **quantity**: 1 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_239.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 239 **order_id**: 239 **product_id**: 1 **quantity**: 3 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_24.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 24 **order_id**: 24 **product_id**: 4 **quantity**: 1 **unit_price**: 52.0"
+    },
+    {
+      "source": "order_items__order_id_240.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 240 **order_id**: 240 **product_id**: 1 **quantity**: 3 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_241.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 241 **order_id**: 241 **product_id**: 8 **quantity**: 2 **unit_price**: 34.5"
+    },
+    {
+      "source": "order_items__order_id_242.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 242 **order_id**: 242 **product_id**: 10 **quantity**: 3 **unit_price**: 15.0"
+    },
+    {
+      "source": "order_items__order_id_243.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 243 **order_id**: 243 **product_id**: 9 **quantity**: 1 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_244.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 244 **order_id**: 244 **product_id**: 4 **quantity**: 3 **unit_price**: 52.0"
+    },
+    {
+      "source": "order_items__order_id_245.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 245 **order_id**: 245 **product_id**: 5 **quantity**: 1 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_246.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 246 **order_id**: 246 **product_id**: 2 **quantity**: 1 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_247.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 247 **order_id**: 247 **product_id**: 6 **quantity**: 1 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_248.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 248 **order_id**: 248 **product_id**: 1 **quantity**: 3 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_249.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 249 **order_id**: 249 **product_id**: 1 **quantity**: 3 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_25.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 25 **order_id**: 25 **product_id**: 2 **quantity**: 2 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_250.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 250 **order_id**: 250 **product_id**: 7 **quantity**: 1 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_251.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 251 **order_id**: 251 **product_id**: 7 **quantity**: 2 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_252.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 252 **order_id**: 252 **product_id**: 10 **quantity**: 2 **unit_price**: 15.0"
+    },
+    {
+      "source": "order_items__order_id_253.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 253 **order_id**: 253 **product_id**: 2 **quantity**: 2 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_254.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 254 **order_id**: 254 **product_id**: 1 **quantity**: 2 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_255.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 255 **order_id**: 255 **product_id**: 4 **quantity**: 3 **unit_price**: 52.0"
+    },
+    {
+      "source": "order_items__order_id_256.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 256 **order_id**: 256 **product_id**: 2 **quantity**: 2 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_257.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 257 **order_id**: 257 **product_id**: 5 **quantity**: 3 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_258.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 258 **order_id**: 258 **product_id**: 2 **quantity**: 2 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_259.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 259 **order_id**: 259 **product_id**: 9 **quantity**: 2 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_26.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 26 **order_id**: 26 **product_id**: 8 **quantity**: 2 **unit_price**: 34.5"
+    },
+    {
+      "source": "order_items__order_id_260.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 260 **order_id**: 260 **product_id**: 7 **quantity**: 3 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_261.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 261 **order_id**: 261 **product_id**: 3 **quantity**: 2 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_262.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 262 **order_id**: 262 **product_id**: 7 **quantity**: 1 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_263.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 263 **order_id**: 263 **product_id**: 10 **quantity**: 3 **unit_price**: 15.0"
+    },
+    {
+      "source": "order_items__order_id_264.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 264 **order_id**: 264 **product_id**: 5 **quantity**: 3 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_265.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 265 **order_id**: 265 **product_id**: 7 **quantity**: 3 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_266.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 266 **order_id**: 266 **product_id**: 5 **quantity**: 3 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_267.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 267 **order_id**: 267 **product_id**: 2 **quantity**: 3 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_268.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 268 **order_id**: 268 **product_id**: 8 **quantity**: 2 **unit_price**: 34.5"
+    },
+    {
+      "source": "order_items__order_id_269.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 269 **order_id**: 269 **product_id**: 9 **quantity**: 2 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_27.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 27 **order_id**: 27 **product_id**: 6 **quantity**: 1 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_270.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 270 **order_id**: 270 **product_id**: 4 **quantity**: 2 **unit_price**: 52.0"
+    },
+    {
+      "source": "order_items__order_id_271.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 271 **order_id**: 271 **product_id**: 5 **quantity**: 3 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_272.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 272 **order_id**: 272 **product_id**: 4 **quantity**: 3 **unit_price**: 52.0"
+    },
+    {
+      "source": "order_items__order_id_273.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 273 **order_id**: 273 **product_id**: 8 **quantity**: 2 **unit_price**: 34.5"
+    },
+    {
+      "source": "order_items__order_id_274.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 274 **order_id**: 274 **product_id**: 7 **quantity**: 1 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_275.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 275 **order_id**: 275 **product_id**: 8 **quantity**: 3 **unit_price**: 34.5"
+    },
+    {
+      "source": "order_items__order_id_276.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 276 **order_id**: 276 **product_id**: 5 **quantity**: 3 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_277.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 277 **order_id**: 277 **product_id**: 10 **quantity**: 3 **unit_price**: 15.0"
+    },
+    {
+      "source": "order_items__order_id_278.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 278 **order_id**: 278 **product_id**: 9 **quantity**: 3 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_279.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 279 **order_id**: 279 **product_id**: 7 **quantity**: 2 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_28.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 28 **order_id**: 28 **product_id**: 1 **quantity**: 1 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_280.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 280 **order_id**: 280 **product_id**: 3 **quantity**: 1 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_281.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 281 **order_id**: 281 **product_id**: 7 **quantity**: 3 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_282.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 282 **order_id**: 282 **product_id**: 1 **quantity**: 2 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_283.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 283 **order_id**: 283 **product_id**: 7 **quantity**: 2 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_284.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 284 **order_id**: 284 **product_id**: 1 **quantity**: 2 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_285.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 285 **order_id**: 285 **product_id**: 6 **quantity**: 2 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_286.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 286 **order_id**: 286 **product_id**: 10 **quantity**: 1 **unit_price**: 15.0"
+    },
+    {
+      "source": "order_items__order_id_287.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 287 **order_id**: 287 **product_id**: 6 **quantity**: 3 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_288.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 288 **order_id**: 288 **product_id**: 7 **quantity**: 3 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_289.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 289 **order_id**: 289 **product_id**: 4 **quantity**: 2 **unit_price**: 52.0"
+    },
+    {
+      "source": "order_items__order_id_29.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 29 **order_id**: 29 **product_id**: 2 **quantity**: 1 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_290.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 290 **order_id**: 290 **product_id**: 8 **quantity**: 2 **unit_price**: 34.5"
+    },
+    {
+      "source": "order_items__order_id_291.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 291 **order_id**: 291 **product_id**: 2 **quantity**: 2 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_292.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 292 **order_id**: 292 **product_id**: 6 **quantity**: 1 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_293.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 293 **order_id**: 293 **product_id**: 6 **quantity**: 3 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_294.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 294 **order_id**: 294 **product_id**: 2 **quantity**: 2 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_295.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 295 **order_id**: 295 **product_id**: 1 **quantity**: 1 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_296.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 296 **order_id**: 296 **product_id**: 6 **quantity**: 2 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_297.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 297 **order_id**: 297 **product_id**: 8 **quantity**: 3 **unit_price**: 34.5"
+    },
+    {
+      "source": "order_items__order_id_298.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 298 **order_id**: 298 **product_id**: 4 **quantity**: 2 **unit_price**: 52.0"
+    },
+    {
+      "source": "order_items__order_id_299.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 299 **order_id**: 299 **product_id**: 7 **quantity**: 2 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_3.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 3 **order_id**: 3 **product_id**: 2 **quantity**: 2 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_30.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 30 **order_id**: 30 **product_id**: 10 **quantity**: 1 **unit_price**: 15.0"
+    },
+    {
+      "source": "order_items__order_id_300.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 300 **order_id**: 300 **product_id**: 2 **quantity**: 2 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_31.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 31 **order_id**: 31 **product_id**: 6 **quantity**: 2 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_32.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 32 **order_id**: 32 **product_id**: 2 **quantity**: 3 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_33.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 33 **order_id**: 33 **product_id**: 9 **quantity**: 1 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_34.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 34 **order_id**: 34 **product_id**: 2 **quantity**: 2 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_35.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 35 **order_id**: 35 **product_id**: 6 **quantity**: 1 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_36.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 36 **order_id**: 36 **product_id**: 3 **quantity**: 3 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_37.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 37 **order_id**: 37 **product_id**: 9 **quantity**: 2 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_38.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 38 **order_id**: 38 **product_id**: 7 **quantity**: 2 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_39.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 39 **order_id**: 39 **product_id**: 10 **quantity**: 3 **unit_price**: 15.0"
+    },
+    {
+      "source": "order_items__order_id_4.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 4 **order_id**: 4 **product_id**: 2 **quantity**: 1 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_40.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 40 **order_id**: 40 **product_id**: 2 **quantity**: 1 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_41.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 41 **order_id**: 41 **product_id**: 1 **quantity**: 3 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_42.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 42 **order_id**: 42 **product_id**: 10 **quantity**: 3 **unit_price**: 15.0"
+    },
+    {
+      "source": "order_items__order_id_43.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 43 **order_id**: 43 **product_id**: 6 **quantity**: 3 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_44.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 44 **order_id**: 44 **product_id**: 3 **quantity**: 2 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_45.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 45 **order_id**: 45 **product_id**: 5 **quantity**: 1 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_46.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 46 **order_id**: 46 **product_id**: 3 **quantity**: 1 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_47.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 47 **order_id**: 47 **product_id**: 7 **quantity**: 3 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_48.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 48 **order_id**: 48 **product_id**: 5 **quantity**: 2 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_49.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 49 **order_id**: 49 **product_id**: 5 **quantity**: 3 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_5.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 5 **order_id**: 5 **product_id**: 3 **quantity**: 3 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_50.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 50 **order_id**: 50 **product_id**: 7 **quantity**: 1 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_51.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 51 **order_id**: 51 **product_id**: 7 **quantity**: 3 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_52.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 52 **order_id**: 52 **product_id**: 9 **quantity**: 2 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_53.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 53 **order_id**: 53 **product_id**: 4 **quantity**: 2 **unit_price**: 52.0"
+    },
+    {
+      "source": "order_items__order_id_54.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 54 **order_id**: 54 **product_id**: 1 **quantity**: 1 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_55.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 55 **order_id**: 55 **product_id**: 9 **quantity**: 3 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_56.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 56 **order_id**: 56 **product_id**: 5 **quantity**: 3 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_57.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 57 **order_id**: 57 **product_id**: 5 **quantity**: 1 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_58.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 58 **order_id**: 58 **product_id**: 2 **quantity**: 2 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_59.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 59 **order_id**: 59 **product_id**: 8 **quantity**: 1 **unit_price**: 34.5"
+    },
+    {
+      "source": "order_items__order_id_6.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 6 **order_id**: 6 **product_id**: 4 **quantity**: 2 **unit_price**: 52.0"
+    },
+    {
+      "source": "order_items__order_id_60.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 60 **order_id**: 60 **product_id**: 2 **quantity**: 2 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_61.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 61 **order_id**: 61 **product_id**: 7 **quantity**: 2 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_62.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 62 **order_id**: 62 **product_id**: 7 **quantity**: 1 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_63.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 63 **order_id**: 63 **product_id**: 7 **quantity**: 1 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_64.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 64 **order_id**: 64 **product_id**: 5 **quantity**: 1 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_65.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 65 **order_id**: 65 **product_id**: 3 **quantity**: 2 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_66.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 66 **order_id**: 66 **product_id**: 7 **quantity**: 2 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_67.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 67 **order_id**: 67 **product_id**: 9 **quantity**: 3 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_68.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 68 **order_id**: 68 **product_id**: 6 **quantity**: 2 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_69.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 69 **order_id**: 69 **product_id**: 8 **quantity**: 2 **unit_price**: 34.5"
+    },
+    {
+      "source": "order_items__order_id_7.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 7 **order_id**: 7 **product_id**: 9 **quantity**: 2 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_70.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 70 **order_id**: 70 **product_id**: 8 **quantity**: 3 **unit_price**: 34.5"
+    },
+    {
+      "source": "order_items__order_id_71.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 71 **order_id**: 71 **product_id**: 2 **quantity**: 3 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_72.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 72 **order_id**: 72 **product_id**: 4 **quantity**: 2 **unit_price**: 52.0"
+    },
+    {
+      "source": "order_items__order_id_73.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 73 **order_id**: 73 **product_id**: 2 **quantity**: 3 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_74.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 74 **order_id**: 74 **product_id**: 1 **quantity**: 1 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_75.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 75 **order_id**: 75 **product_id**: 3 **quantity**: 3 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_76.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 76 **order_id**: 76 **product_id**: 5 **quantity**: 1 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_77.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 77 **order_id**: 77 **product_id**: 3 **quantity**: 2 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_78.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 78 **order_id**: 78 **product_id**: 5 **quantity**: 3 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_79.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 79 **order_id**: 79 **product_id**: 1 **quantity**: 3 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_8.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 8 **order_id**: 8 **product_id**: 7 **quantity**: 1 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_80.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 80 **order_id**: 80 **product_id**: 6 **quantity**: 3 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_81.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 81 **order_id**: 81 **product_id**: 6 **quantity**: 2 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_82.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 82 **order_id**: 82 **product_id**: 7 **quantity**: 3 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_83.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 83 **order_id**: 83 **product_id**: 3 **quantity**: 2 **unit_price**: 25.0"
+    },
+    {
+      "source": "order_items__order_id_84.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 84 **order_id**: 84 **product_id**: 7 **quantity**: 1 **unit_price**: 29.0"
+    },
+    {
+      "source": "order_items__order_id_85.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 85 **order_id**: 85 **product_id**: 1 **quantity**: 1 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_86.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 86 **order_id**: 86 **product_id**: 6 **quantity**: 1 **unit_price**: 79.0"
+    },
+    {
+      "source": "order_items__order_id_87.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 87 **order_id**: 87 **product_id**: 4 **quantity**: 3 **unit_price**: 52.0"
+    },
+    {
+      "source": "order_items__order_id_88.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 88 **order_id**: 88 **product_id**: 4 **quantity**: 2 **unit_price**: 52.0"
+    },
+    {
+      "source": "order_items__order_id_89.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 89 **order_id**: 89 **product_id**: 4 **quantity**: 1 **unit_price**: 52.0"
+    },
+    {
+      "source": "order_items__order_id_9.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 9 **order_id**: 9 **product_id**: 2 **quantity**: 2 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_90.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 90 **order_id**: 90 **product_id**: 10 **quantity**: 2 **unit_price**: 15.0"
+    },
+    {
+      "source": "order_items__order_id_91.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 91 **order_id**: 91 **product_id**: 5 **quantity**: 1 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_92.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 92 **order_id**: 92 **product_id**: 1 **quantity**: 3 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_93.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 93 **order_id**: 93 **product_id**: 2 **quantity**: 3 **unit_price**: 39.5"
+    },
+    {
+      "source": "order_items__order_id_94.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 94 **order_id**: 94 **product_id**: 1 **quantity**: 1 **unit_price**: 14.99"
+    },
+    {
+      "source": "order_items__order_id_95.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 95 **order_id**: 95 **product_id**: 10 **quantity**: 3 **unit_price**: 15.0"
+    },
+    {
+      "source": "order_items__order_id_96.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 96 **order_id**: 96 **product_id**: 5 **quantity**: 1 **unit_price**: 19.99"
+    },
+    {
+      "source": "order_items__order_id_97.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 97 **order_id**: 97 **product_id**: 9 **quantity**: 2 **unit_price**: 49.0"
+    },
+    {
+      "source": "order_items__order_id_98.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 98 **order_id**: 98 **product_id**: 10 **quantity**: 3 **unit_price**: 15.0"
+    },
+    {
+      "source": "order_items__order_id_99.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from order_items: order_id = 99 **order_id**: 99 **product_id**: 2 **quantity**: 1 **unit_price**: 39.5"
+    },
+    {
+      "source": "orders__id_1.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 1 **id**: 1 **customer_id**: 9 **order_date**: 2025-04-28 **total_amount**: 93.99"
+    },
+    {
+      "source": "orders__id_10.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 10 **id**: 10 **customer_id**: 27 **order_date**: 2025-04-28 **total_amount**: 262.0"
+    },
+    {
+      "source": "orders__id_100.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 100 **id**: 100 **customer_id**: 6 **order_date**: 2025-05-20 **total_amount**: 25.0"
+    },
+    {
+      "source": "orders__id_101.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 101 **id**: 101 **customer_id**: 14 **order_date**: 2025-06-15 **total_amount**: 295.95"
+    },
+    {
+      "source": "orders__id_102.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 102 **id**: 102 **customer_id**: 3 **order_date**: 2025-04-16 **total_amount**: 91.98"
+    },
+    {
+      "source": "orders__id_103.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 103 **id**: 103 **customer_id**: 18 **order_date**: 2025-08-12 **total_amount**: 44.99"
+    },
+    {
+      "source": "orders__id_104.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 104 **id**: 104 **customer_id**: 6 **order_date**: 2025-07-22 **total_amount**: 227.5"
+    },
+    {
+      "source": "orders__id_105.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 105 **id**: 105 **customer_id**: 13 **order_date**: 2025-07-31 **total_amount**: 331.47"
+    },
+    {
+      "source": "orders__id_106.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 106 **id**: 106 **customer_id**: 1 **order_date**: 2025-09-15 **total_amount**: 74.98"
+    },
+    {
+      "source": "orders__id_107.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 107 **id**: 107 **customer_id**: 19 **order_date**: 2025-09-28 **total_amount**: 201.5"
+    },
+    {
+      "source": "orders__id_108.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 108 **id**: 108 **customer_id**: 30 **order_date**: 2025-07-29 **total_amount**: 103.0"
+    },
+    {
+      "source": "orders__id_109.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 109 **id**: 109 **customer_id**: 3 **order_date**: 2025-06-10 **total_amount**: 215.0"
+    },
+    {
+      "source": "orders__id_11.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 11 **id**: 11 **customer_id**: 25 **order_date**: 2025-05-26 **total_amount**: 30.0"
+    },
+    {
+      "source": "orders__id_110.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 110 **id**: 110 **customer_id**: 11 **order_date**: 2025-06-25 **total_amount**: 211.97"
+    },
+    {
+      "source": "orders__id_111.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 111 **id**: 111 **customer_id**: 4 **order_date**: 2025-06-27 **total_amount**: 98.0"
+    },
+    {
+      "source": "orders__id_112.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 112 **id**: 112 **customer_id**: 14 **order_date**: 2025-09-25 **total_amount**: 305.0"
+    },
+    {
+      "source": "orders__id_113.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 113 **id**: 113 **customer_id**: 21 **order_date**: 2025-06-17 **total_amount**: 104.0"
+    },
+    {
+      "source": "orders__id_114.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 114 **id**: 114 **customer_id**: 18 **order_date**: 2025-09-05 **total_amount**: 198.0"
+    },
+    {
+      "source": "orders__id_115.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 115 **id**: 115 **customer_id**: 26 **order_date**: 2025-08-08 **total_amount**: 166.99"
+    },
+    {
+      "source": "orders__id_116.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 116 **id**: 116 **customer_id**: 14 **order_date**: 2025-09-15 **total_amount**: 143.0"
+    },
+    {
+      "source": "orders__id_117.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 117 **id**: 117 **customer_id**: 27 **order_date**: 2025-08-30 **total_amount**: 256.98"
+    },
+    {
+      "source": "orders__id_118.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 118 **id**: 118 **customer_id**: 18 **order_date**: 2025-09-01 **total_amount**: 258.0"
+    },
+    {
+      "source": "orders__id_119.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 119 **id**: 119 **customer_id**: 30 **order_date**: 2025-06-01 **total_amount**: 251.94"
+    },
+    {
+      "source": "orders__id_12.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 12 **id**: 12 **customer_id**: 16 **order_date**: 2025-10-04 **total_amount**: 158.0"
+    },
+    {
+      "source": "orders__id_120.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 120 **id**: 120 **customer_id**: 16 **order_date**: 2025-08-31 **total_amount**: 458.5"
+    },
+    {
+      "source": "orders__id_121.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 121 **id**: 121 **customer_id**: 30 **order_date**: 2025-07-18 **total_amount**: 110.0"
+    },
+    {
+      "source": "orders__id_122.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 122 **id**: 122 **customer_id**: 2 **order_date**: 2025-07-19 **total_amount**: 275.0"
+    },
+    {
+      "source": "orders__id_123.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 123 **id**: 123 **customer_id**: 11 **order_date**: 2025-09-13 **total_amount**: 281.47"
+    },
+    {
+      "source": "orders__id_124.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 124 **id**: 124 **customer_id**: 5 **order_date**: 2025-09-19 **total_amount**: 411.99"
+    },
+    {
+      "source": "orders__id_125.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 125 **id**: 125 **customer_id**: 13 **order_date**: 2025-07-19 **total_amount**: 305.47"
+    },
+    {
+      "source": "orders__id_126.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 126 **id**: 126 **customer_id**: 24 **order_date**: 2025-09-15 **total_amount**: 232.0"
+    },
+    {
+      "source": "orders__id_127.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 127 **id**: 127 **customer_id**: 11 **order_date**: 2025-09-24 **total_amount**: 181.0"
+    },
+    {
+      "source": "orders__id_128.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 128 **id**: 128 **customer_id**: 14 **order_date**: 2025-05-17 **total_amount**: 70.0"
+    },
+    {
+      "source": "orders__id_129.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 129 **id**: 129 **customer_id**: 28 **order_date**: 2025-07-03 **total_amount**: 84.5"
+    },
+    {
+      "source": "orders__id_13.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 13 **id**: 13 **customer_id**: 8 **order_date**: 2025-09-24 **total_amount**: 133.5"
+    },
+    {
+      "source": "orders__id_130.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 130 **id**: 130 **customer_id**: 21 **order_date**: 2025-08-04 **total_amount**: 164.44"
+    },
+    {
+      "source": "orders__id_131.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 131 **id**: 131 **customer_id**: 15 **order_date**: 2025-07-12 **total_amount**: 146.99"
+    },
+    {
+      "source": "orders__id_132.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 132 **id**: 132 **customer_id**: 28 **order_date**: 2025-06-07 **total_amount**: 104.0"
+    },
+    {
+      "source": "orders__id_133.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 133 **id**: 133 **customer_id**: 19 **order_date**: 2025-07-09 **total_amount**: 141.97"
+    },
+    {
+      "source": "orders__id_134.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 134 **id**: 134 **customer_id**: 28 **order_date**: 2025-04-16 **total_amount**: 45.0"
+    },
+    {
+      "source": "orders__id_135.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 135 **id**: 135 **customer_id**: 16 **order_date**: 2025-07-27 **total_amount**: 252.0"
+    },
+    {
+      "source": "orders__id_136.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 136 **id**: 136 **customer_id**: 7 **order_date**: 2025-05-03 **total_amount**: 143.99"
+    },
+    {
+      "source": "orders__id_137.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 137 **id**: 137 **customer_id**: 19 **order_date**: 2025-07-07 **total_amount**: 138.97"
+    },
+    {
+      "source": "orders__id_138.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 138 **id**: 138 **customer_id**: 14 **order_date**: 2025-08-25 **total_amount**: 197.0"
+    },
+    {
+      "source": "orders__id_139.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 139 **id**: 139 **customer_id**: 17 **order_date**: 2025-07-31 **total_amount**: 143.48"
+    },
+    {
+      "source": "orders__id_14.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 14 **id**: 14 **customer_id**: 16 **order_date**: 2025-09-21 **total_amount**: 109.5"
+    },
+    {
+      "source": "orders__id_140.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 140 **id**: 140 **customer_id**: 28 **order_date**: 2025-07-14 **total_amount**: 34.5"
+    },
+    {
+      "source": "orders__id_141.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 141 **id**: 141 **customer_id**: 5 **order_date**: 2025-08-12 **total_amount**: 343.0"
+    },
+    {
+      "source": "orders__id_142.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 142 **id**: 142 **customer_id**: 4 **order_date**: 2025-06-14 **total_amount**: 185.99"
+    },
+    {
+      "source": "orders__id_143.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 143 **id**: 143 **customer_id**: 16 **order_date**: 2025-10-02 **total_amount**: 267.5"
+    },
+    {
+      "source": "orders__id_144.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 144 **id**: 144 **customer_id**: 10 **order_date**: 2025-04-25 **total_amount**: 178.49"
+    },
+    {
+      "source": "orders__id_145.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 145 **id**: 145 **customer_id**: 8 **order_date**: 2025-05-24 **total_amount**: 161.5"
+    },
+    {
+      "source": "orders__id_146.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 146 **id**: 146 **customer_id**: 24 **order_date**: 2025-04-13 **total_amount**: 310.0"
+    },
+    {
+      "source": "orders__id_147.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 147 **id**: 147 **customer_id**: 9 **order_date**: 2025-09-30 **total_amount**: 170.0"
+    },
+    {
+      "source": "orders__id_148.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 148 **id**: 148 **customer_id**: 22 **order_date**: 2025-07-06 **total_amount**: 83.97"
+    },
+    {
+      "source": "orders__id_149.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 149 **id**: 149 **customer_id**: 3 **order_date**: 2025-04-22 **total_amount**: 44.98"
+    },
+    {
+      "source": "orders__id_15.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 15 **id**: 15 **customer_id**: 9 **order_date**: 2025-05-26 **total_amount**: 484.0"
+    },
+    {
+      "source": "orders__id_150.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 150 **id**: 150 **customer_id**: 8 **order_date**: 2025-09-06 **total_amount**: 186.5"
+    },
+    {
+      "source": "orders__id_151.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 151 **id**: 151 **customer_id**: 7 **order_date**: 2025-08-10 **total_amount**: 99.96"
+    },
+    {
+      "source": "orders__id_152.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 152 **id**: 152 **customer_id**: 9 **order_date**: 2025-08-25 **total_amount**: 14.99"
+    },
+    {
+      "source": "orders__id_153.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 153 **id**: 153 **customer_id**: 1 **order_date**: 2025-07-09 **total_amount**: 94.0"
+    },
+    {
+      "source": "orders__id_154.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 154 **id**: 154 **customer_id**: 9 **order_date**: 2025-09-25 **total_amount**: 176.0"
+    },
+    {
+      "source": "orders__id_155.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 155 **id**: 155 **customer_id**: 3 **order_date**: 2025-06-09 **total_amount**: 456.5"
+    },
+    {
+      "source": "orders__id_156.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 156 **id**: 156 **customer_id**: 24 **order_date**: 2025-04-23 **total_amount**: 196.98"
+    },
+    {
+      "source": "orders__id_157.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 157 **id**: 157 **customer_id**: 22 **order_date**: 2025-09-11 **total_amount**: 217.0"
+    },
+    {
+      "source": "orders__id_158.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 158 **id**: 158 **customer_id**: 9 **order_date**: 2025-05-02 **total_amount**: 264.97"
+    },
+    {
+      "source": "orders__id_159.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 159 **id**: 159 **customer_id**: 14 **order_date**: 2025-09-13 **total_amount**: 147.0"
+    },
+    {
+      "source": "orders__id_16.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 16 **id**: 16 **customer_id**: 12 **order_date**: 2025-06-18 **total_amount**: 322.97"
+    },
+    {
+      "source": "orders__id_160.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 160 **id**: 160 **customer_id**: 28 **order_date**: 2025-08-14 **total_amount**: 306.0"
+    },
+    {
+      "source": "orders__id_161.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 161 **id**: 161 **customer_id**: 4 **order_date**: 2025-07-20 **total_amount**: 331.48"
+    },
+    {
+      "source": "orders__id_162.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 162 **id**: 162 **customer_id**: 27 **order_date**: 2025-09-17 **total_amount**: 29.0"
+    },
+    {
+      "source": "orders__id_163.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 163 **id**: 163 **customer_id**: 24 **order_date**: 2025-07-05 **total_amount**: 191.97"
+    },
+    {
+      "source": "orders__id_164.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 164 **id**: 164 **customer_id**: 18 **order_date**: 2025-07-16 **total_amount**: 58.0"
+    },
+    {
+      "source": "orders__id_165.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 165 **id**: 165 **customer_id**: 28 **order_date**: 2025-04-21 **total_amount**: 246.96"
+    },
+    {
+      "source": "orders__id_166.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 166 **id**: 166 **customer_id**: 5 **order_date**: 2025-04-23 **total_amount**: 372.0"
+    },
+    {
+      "source": "orders__id_167.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 167 **id**: 167 **customer_id**: 19 **order_date**: 2025-08-12 **total_amount**: 241.97"
+    },
+    {
+      "source": "orders__id_168.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 168 **id**: 168 **customer_id**: 6 **order_date**: 2025-07-31 **total_amount**: 138.97"
+    },
+    {
+      "source": "orders__id_169.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 169 **id**: 169 **customer_id**: 22 **order_date**: 2025-06-28 **total_amount**: 75.0"
+    },
+    {
+      "source": "orders__id_17.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 17 **id**: 17 **customer_id**: 8 **order_date**: 2025-05-11 **total_amount**: 163.47"
+    },
+    {
+      "source": "orders__id_170.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 170 **id**: 170 **customer_id**: 21 **order_date**: 2025-10-01 **total_amount**: 49.0"
+    },
+    {
+      "source": "orders__id_171.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 171 **id**: 171 **customer_id**: 13 **order_date**: 2025-06-23 **total_amount**: 479.0"
+    },
+    {
+      "source": "orders__id_172.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 172 **id**: 172 **customer_id**: 3 **order_date**: 2025-09-25 **total_amount**: 89.99"
+    },
+    {
+      "source": "orders__id_173.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 173 **id**: 173 **customer_id**: 9 **order_date**: 2025-06-17 **total_amount**: 158.5"
+    },
+    {
+      "source": "orders__id_174.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 174 **id**: 174 **customer_id**: 14 **order_date**: 2025-09-10 **total_amount**: 89.48"
+    },
+    {
+      "source": "orders__id_175.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 175 **id**: 175 **customer_id**: 20 **order_date**: 2025-09-24 **total_amount**: 104.0"
+    },
+    {
+      "source": "orders__id_176.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 176 **id**: 176 **customer_id**: 7 **order_date**: 2025-09-03 **total_amount**: 296.49"
+    },
+    {
+      "source": "orders__id_177.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 177 **id**: 177 **customer_id**: 14 **order_date**: 2025-08-25 **total_amount**: 136.0"
+    },
+    {
+      "source": "orders__id_178.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 178 **id**: 178 **customer_id**: 17 **order_date**: 2025-05-18 **total_amount**: 137.98"
+    },
+    {
+      "source": "orders__id_179.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 179 **id**: 179 **customer_id**: 30 **order_date**: 2025-09-19 **total_amount**: 230.0"
+    },
+    {
+      "source": "orders__id_18.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 18 **id**: 18 **customer_id**: 2 **order_date**: 2025-08-11 **total_amount**: 29.98"
+    },
+    {
+      "source": "orders__id_180.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 180 **id**: 180 **customer_id**: 10 **order_date**: 2025-09-09 **total_amount**: 335.97"
+    },
+    {
+      "source": "orders__id_181.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 181 **id**: 181 **customer_id**: 3 **order_date**: 2025-06-19 **total_amount**: 104.0"
+    },
+    {
+      "source": "orders__id_182.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 182 **id**: 182 **customer_id**: 19 **order_date**: 2025-06-28 **total_amount**: 58.0"
+    },
+    {
+      "source": "orders__id_183.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 183 **id**: 183 **customer_id**: 24 **order_date**: 2025-07-14 **total_amount**: 154.0"
+    },
+    {
+      "source": "orders__id_184.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 184 **id**: 184 **customer_id**: 21 **order_date**: 2025-09-09 **total_amount**: 282.0"
+    },
+    {
+      "source": "orders__id_185.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 185 **id**: 185 **customer_id**: 27 **order_date**: 2025-09-01 **total_amount**: 104.0"
+    },
+    {
+      "source": "orders__id_186.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 186 **id**: 186 **customer_id**: 6 **order_date**: 2025-05-07 **total_amount**: 168.5"
+    },
+    {
+      "source": "orders__id_187.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 187 **id**: 187 **customer_id**: 15 **order_date**: 2025-05-17 **total_amount**: 286.0"
+    },
+    {
+      "source": "orders__id_188.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 188 **id**: 188 **customer_id**: 21 **order_date**: 2025-07-23 **total_amount**: 217.99"
+    },
+    {
+      "source": "orders__id_189.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 189 **id**: 189 **customer_id**: 15 **order_date**: 2025-06-15 **total_amount**: 29.98"
+    },
+    {
+      "source": "orders__id_19.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 19 **id**: 19 **customer_id**: 3 **order_date**: 2025-05-30 **total_amount**: 123.49"
+    },
+    {
+      "source": "orders__id_190.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 190 **id**: 190 **customer_id**: 27 **order_date**: 2025-07-27 **total_amount**: 118.5"
+    },
+    {
+      "source": "orders__id_191.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 191 **id**: 191 **customer_id**: 20 **order_date**: 2025-06-01 **total_amount**: 369.49"
+    },
+    {
+      "source": "orders__id_192.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 192 **id**: 192 **customer_id**: 20 **order_date**: 2025-06-09 **total_amount**: 83.99"
+    },
+    {
+      "source": "orders__id_193.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 193 **id**: 193 **customer_id**: 23 **order_date**: 2025-09-17 **total_amount**: 148.97"
+    },
+    {
+      "source": "orders__id_194.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 194 **id**: 194 **customer_id**: 15 **order_date**: 2025-05-27 **total_amount**: 188.0"
+    },
+    {
+      "source": "orders__id_195.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 195 **id**: 195 **customer_id**: 14 **order_date**: 2025-07-14 **total_amount**: 79.0"
+    },
+    {
+      "source": "orders__id_196.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 196 **id**: 196 **customer_id**: 11 **order_date**: 2025-09-14 **total_amount**: 174.49"
+    },
+    {
+      "source": "orders__id_197.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 197 **id**: 197 **customer_id**: 30 **order_date**: 2025-07-11 **total_amount**: 212.0"
+    },
+    {
+      "source": "orders__id_198.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 198 **id**: 198 **customer_id**: 21 **order_date**: 2025-07-16 **total_amount**: 265.5"
+    },
+    {
+      "source": "orders__id_199.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 199 **id**: 199 **customer_id**: 14 **order_date**: 2025-05-31 **total_amount**: 133.97"
+    },
+    {
+      "source": "orders__id_2.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 2 **id**: 2 **customer_id**: 26 **order_date**: 2025-07-20 **total_amount**: 235.97"
+    },
+    {
+      "source": "orders__id_20.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 20 **id**: 20 **customer_id**: 5 **order_date**: 2025-05-15 **total_amount**: 252.5"
+    },
+    {
+      "source": "orders__id_200.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 200 **id**: 200 **customer_id**: 25 **order_date**: 2025-06-06 **total_amount**: 77.0"
+    },
+    {
+      "source": "orders__id_201.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 201 **id**: 201 **customer_id**: 10 **order_date**: 2025-09-13 **total_amount**: 237.0"
+    },
+    {
+      "source": "orders__id_202.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 202 **id**: 202 **customer_id**: 5 **order_date**: 2025-05-09 **total_amount**: 256.0"
+    },
+    {
+      "source": "orders__id_203.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 203 **id**: 203 **customer_id**: 15 **order_date**: 2025-09-27 **total_amount**: 402.99"
+    },
+    {
+      "source": "orders__id_204.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 204 **id**: 204 **customer_id**: 18 **order_date**: 2025-08-08 **total_amount**: 417.5"
+    },
+    {
+      "source": "orders__id_205.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 205 **id**: 205 **customer_id**: 15 **order_date**: 2025-07-28 **total_amount**: 202.0"
+    },
+    {
+      "source": "orders__id_206.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 206 **id**: 206 **customer_id**: 2 **order_date**: 2025-04-27 **total_amount**: 380.0"
+    },
+    {
+      "source": "orders__id_207.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 207 **id**: 207 **customer_id**: 25 **order_date**: 2025-08-28 **total_amount**: 143.0"
+    },
+    {
+      "source": "orders__id_208.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 208 **id**: 208 **customer_id**: 27 **order_date**: 2025-06-15 **total_amount**: 146.98"
+    },
+    {
+      "source": "orders__id_209.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 209 **id**: 209 **customer_id**: 8 **order_date**: 2025-07-02 **total_amount**: 79.0"
+    },
+    {
+      "source": "orders__id_21.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 21 **id**: 21 **customer_id**: 12 **order_date**: 2025-06-22 **total_amount**: 241.97"
+    },
+    {
+      "source": "orders__id_210.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 210 **id**: 210 **customer_id**: 1 **order_date**: 2025-07-19 **total_amount**: 79.0"
+    },
+    {
+      "source": "orders__id_211.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 211 **id**: 211 **customer_id**: 5 **order_date**: 2025-09-29 **total_amount**: 159.0"
+    },
+    {
+      "source": "orders__id_212.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 212 **id**: 212 **customer_id**: 29 **order_date**: 2025-09-18 **total_amount**: 19.99"
+    },
+    {
+      "source": "orders__id_213.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 213 **id**: 213 **customer_id**: 27 **order_date**: 2025-08-31 **total_amount**: 161.49"
+    },
+    {
+      "source": "orders__id_214.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 214 **id**: 214 **customer_id**: 21 **order_date**: 2025-05-02 **total_amount**: 296.97"
+    },
+    {
+      "source": "orders__id_215.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 215 **id**: 215 **customer_id**: 19 **order_date**: 2025-08-08 **total_amount**: 106.99"
+    },
+    {
+      "source": "orders__id_216.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 216 **id**: 216 **customer_id**: 12 **order_date**: 2025-08-08 **total_amount**: 475.47"
+    },
+    {
+      "source": "orders__id_217.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 217 **id**: 217 **customer_id**: 18 **order_date**: 2025-10-03 **total_amount**: 192.97"
+    },
+    {
+      "source": "orders__id_218.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 218 **id**: 218 **customer_id**: 26 **order_date**: 2025-09-21 **total_amount**: 249.5"
+    },
+    {
+      "source": "orders__id_219.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 219 **id**: 219 **customer_id**: 18 **order_date**: 2025-07-14 **total_amount**: 118.5"
+    },
+    {
+      "source": "orders__id_22.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 22 **id**: 22 **customer_id**: 8 **order_date**: 2025-08-20 **total_amount**: 118.0"
+    },
+    {
+      "source": "orders__id_220.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 220 **id**: 220 **customer_id**: 26 **order_date**: 2025-09-04 **total_amount**: 34.5"
+    },
+    {
+      "source": "orders__id_221.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 221 **id**: 221 **customer_id**: 10 **order_date**: 2025-08-18 **total_amount**: 52.0"
+    },
+    {
+      "source": "orders__id_222.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 222 **id**: 222 **customer_id**: 11 **order_date**: 2025-07-21 **total_amount**: 251.46"
+    },
+    {
+      "source": "orders__id_223.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 223 **id**: 223 **customer_id**: 28 **order_date**: 2025-09-26 **total_amount**: 355.98"
+    },
+    {
+      "source": "orders__id_224.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 224 **id**: 224 **customer_id**: 15 **order_date**: 2025-07-02 **total_amount**: 251.5"
+    },
+    {
+      "source": "orders__id_225.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 225 **id**: 225 **customer_id**: 26 **order_date**: 2025-09-17 **total_amount**: 181.99"
+    },
+    {
+      "source": "orders__id_226.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 226 **id**: 226 **customer_id**: 11 **order_date**: 2025-04-22 **total_amount**: 181.49"
+    },
+    {
+      "source": "orders__id_227.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 227 **id**: 227 **customer_id**: 12 **order_date**: 2025-06-16 **total_amount**: 237.0"
+    },
+    {
+      "source": "orders__id_228.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 228 **id**: 228 **customer_id**: 14 **order_date**: 2025-07-30 **total_amount**: 118.5"
+    },
+    {
+      "source": "orders__id_229.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 229 **id**: 229 **customer_id**: 21 **order_date**: 2025-06-27 **total_amount**: 168.97"
+    },
+    {
+      "source": "orders__id_23.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 23 **id**: 23 **customer_id**: 6 **order_date**: 2025-07-29 **total_amount**: 317.0"
+    },
+    {
+      "source": "orders__id_230.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 230 **id**: 230 **customer_id**: 26 **order_date**: 2025-06-18 **total_amount**: 25.0"
+    },
+    {
+      "source": "orders__id_231.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 231 **id**: 231 **customer_id**: 8 **order_date**: 2025-04-26 **total_amount**: 310.97"
+    },
+    {
+      "source": "orders__id_232.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 232 **id**: 232 **customer_id**: 15 **order_date**: 2025-07-06 **total_amount**: 232.5"
+    },
+    {
+      "source": "orders__id_233.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 233 **id**: 233 **customer_id**: 11 **order_date**: 2025-04-25 **total_amount**: 225.48"
+    },
+    {
+      "source": "orders__id_234.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 234 **id**: 234 **customer_id**: 17 **order_date**: 2025-07-01 **total_amount**: 39.98"
+    },
+    {
+      "source": "orders__id_235.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 235 **id**: 235 **customer_id**: 23 **order_date**: 2025-06-16 **total_amount**: 84.98"
+    },
+    {
+      "source": "orders__id_236.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 236 **id**: 236 **customer_id**: 7 **order_date**: 2025-09-07 **total_amount**: 143.0"
+    },
+    {
+      "source": "orders__id_237.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 237 **id**: 237 **customer_id**: 15 **order_date**: 2025-09-16 **total_amount**: 257.47"
+    },
+    {
+      "source": "orders__id_238.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 238 **id**: 238 **customer_id**: 23 **order_date**: 2025-04-12 **total_amount**: 128.0"
+    },
+    {
+      "source": "orders__id_239.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 239 **id**: 239 **customer_id**: 7 **order_date**: 2025-09-03 **total_amount**: 113.97"
+    },
+    {
+      "source": "orders__id_24.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 24 **id**: 24 **customer_id**: 18 **order_date**: 2025-10-05 **total_amount**: 52.0"
+    },
+    {
+      "source": "orders__id_240.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 240 **id**: 240 **customer_id**: 19 **order_date**: 2025-07-06 **total_amount**: 311.47"
+    },
+    {
+      "source": "orders__id_241.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 241 **id**: 241 **customer_id**: 16 **order_date**: 2025-05-27 **total_amount**: 245.5"
+    },
+    {
+      "source": "orders__id_242.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 242 **id**: 242 **customer_id**: 22 **order_date**: 2025-05-29 **total_amount**: 168.0"
+    },
+    {
+      "source": "orders__id_243.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 243 **id**: 243 **customer_id**: 30 **order_date**: 2025-09-24 **total_amount**: 49.0"
+    },
+    {
+      "source": "orders__id_244.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 244 **id**: 244 **customer_id**: 10 **order_date**: 2025-08-27 **total_amount**: 314.0"
+    },
+    {
+      "source": "orders__id_245.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 245 **id**: 245 **customer_id**: 29 **order_date**: 2025-07-28 **total_amount**: 19.99"
+    },
+    {
+      "source": "orders__id_246.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 246 **id**: 246 **customer_id**: 21 **order_date**: 2025-05-20 **total_amount**: 174.47"
+    },
+    {
+      "source": "orders__id_247.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 247 **id**: 247 **customer_id**: 19 **order_date**: 2025-05-13 **total_amount**: 154.0"
+    },
+    {
+      "source": "orders__id_248.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 248 **id**: 248 **customer_id**: 27 **order_date**: 2025-10-01 **total_amount**: 44.97"
+    },
+    {
+      "source": "orders__id_249.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 249 **id**: 249 **customer_id**: 25 **order_date**: 2025-05-14 **total_amount**: 235.97"
+    },
+    {
+      "source": "orders__id_25.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 25 **id**: 25 **customer_id**: 14 **order_date**: 2025-06-06 **total_amount**: 241.98"
+    },
+    {
+      "source": "orders__id_250.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 250 **id**: 250 **customer_id**: 10 **order_date**: 2025-04-27 **total_amount**: 202.0"
+    },
+    {
+      "source": "orders__id_251.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 251 **id**: 251 **customer_id**: 23 **order_date**: 2025-09-23 **total_amount**: 127.0"
+    },
+    {
+      "source": "orders__id_252.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 252 **id**: 252 **customer_id**: 7 **order_date**: 2025-07-13 **total_amount**: 267.0"
+    },
+    {
+      "source": "orders__id_253.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 253 **id**: 253 **customer_id**: 13 **order_date**: 2025-09-05 **total_amount**: 192.0"
+    },
+    {
+      "source": "orders__id_254.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 254 **id**: 254 **customer_id**: 4 **order_date**: 2025-08-01 **total_amount**: 302.48"
+    },
+    {
+      "source": "orders__id_255.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 255 **id**: 255 **customer_id**: 8 **order_date**: 2025-08-29 **total_amount**: 329.0"
+    },
+    {
+      "source": "orders__id_256.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 256 **id**: 256 **customer_id**: 15 **order_date**: 2025-06-03 **total_amount**: 192.97"
+    },
+    {
+      "source": "orders__id_257.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 257 **id**: 257 **customer_id**: 8 **order_date**: 2025-08-14 **total_amount**: 134.95"
+    },
+    {
+      "source": "orders__id_258.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 258 **id**: 258 **customer_id**: 22 **order_date**: 2025-06-10 **total_amount**: 191.99"
+    },
+    {
+      "source": "orders__id_259.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 259 **id**: 259 **customer_id**: 24 **order_date**: 2025-07-07 **total_amount**: 408.97"
+    },
+    {
+      "source": "orders__id_26.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 26 **id**: 26 **customer_id**: 30 **order_date**: 2025-06-14 **total_amount**: 147.0"
+    },
+    {
+      "source": "orders__id_260.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 260 **id**: 260 **customer_id**: 18 **order_date**: 2025-07-27 **total_amount**: 87.0"
+    },
+    {
+      "source": "orders__id_261.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 261 **id**: 261 **customer_id**: 15 **order_date**: 2025-05-21 **total_amount**: 144.0"
+    },
+    {
+      "source": "orders__id_262.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 262 **id**: 262 **customer_id**: 26 **order_date**: 2025-07-14 **total_amount**: 156.0"
+    },
+    {
+      "source": "orders__id_263.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 263 **id**: 263 **customer_id**: 2 **order_date**: 2025-09-03 **total_amount**: 226.5"
+    },
+    {
+      "source": "orders__id_264.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 264 **id**: 264 **customer_id**: 5 **order_date**: 2025-07-17 **total_amount**: 192.97"
+    },
+    {
+      "source": "orders__id_265.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 265 **id**: 265 **customer_id**: 27 **order_date**: 2025-05-31 **total_amount**: 210.98"
+    },
+    {
+      "source": "orders__id_266.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 266 **id**: 266 **customer_id**: 4 **order_date**: 2025-06-24 **total_amount**: 208.44"
+    },
+    {
+      "source": "orders__id_267.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 267 **id**: 267 **customer_id**: 8 **order_date**: 2025-09-25 **total_amount**: 271.5"
+    },
+    {
+      "source": "orders__id_268.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 268 **id**: 268 **customer_id**: 23 **order_date**: 2025-09-10 **total_amount**: 98.98"
+    },
+    {
+      "source": "orders__id_269.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 269 **id**: 269 **customer_id**: 5 **order_date**: 2025-06-25 **total_amount**: 185.0"
+    },
+    {
+      "source": "orders__id_27.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 27 **id**: 27 **customer_id**: 7 **order_date**: 2025-09-24 **total_amount**: 79.0"
+    },
+    {
+      "source": "orders__id_270.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 270 **id**: 270 **customer_id**: 28 **order_date**: 2025-09-23 **total_amount**: 251.0"
+    },
+    {
+      "source": "orders__id_271.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 271 **id**: 271 **customer_id**: 22 **order_date**: 2025-06-08 **total_amount**: 361.97"
+    },
+    {
+      "source": "orders__id_272.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 272 **id**: 272 **customer_id**: 25 **order_date**: 2025-04-17 **total_amount**: 240.0"
+    },
+    {
+      "source": "orders__id_273.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 273 **id**: 273 **customer_id**: 10 **order_date**: 2025-08-12 **total_amount**: 212.98"
+    },
+    {
+      "source": "orders__id_274.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 274 **id**: 274 **customer_id**: 18 **order_date**: 2025-07-30 **total_amount**: 206.0"
+    },
+    {
+      "source": "orders__id_275.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 275 **id**: 275 **customer_id**: 10 **order_date**: 2025-09-28 **total_amount**: 380.0"
+    },
+    {
+      "source": "orders__id_276.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 276 **id**: 276 **customer_id**: 16 **order_date**: 2025-08-15 **total_amount**: 206.97"
+    },
+    {
+      "source": "orders__id_277.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 277 **id**: 277 **customer_id**: 9 **order_date**: 2025-09-03 **total_amount**: 45.0"
+    },
+    {
+      "source": "orders__id_278.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 278 **id**: 278 **customer_id**: 19 **order_date**: 2025-08-08 **total_amount**: 161.99"
+    },
+    {
+      "source": "orders__id_279.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 279 **id**: 279 **customer_id**: 8 **order_date**: 2025-09-25 **total_amount**: 58.0"
+    },
+    {
+      "source": "orders__id_28.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 28 **id**: 28 **customer_id**: 2 **order_date**: 2025-05-12 **total_amount**: 201.99"
+    },
+    {
+      "source": "orders__id_280.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 280 **id**: 280 **customer_id**: 23 **order_date**: 2025-06-10 **total_amount**: 25.0"
+    },
+    {
+      "source": "orders__id_281.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 281 **id**: 281 **customer_id**: 18 **order_date**: 2025-08-29 **total_amount**: 290.0"
+    },
+    {
+      "source": "orders__id_282.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 282 **id**: 282 **customer_id**: 2 **order_date**: 2025-09-16 **total_amount**: 78.98"
+    },
+    {
+      "source": "orders__id_283.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 283 **id**: 283 **customer_id**: 29 **order_date**: 2025-08-24 **total_amount**: 58.0"
+    },
+    {
+      "source": "orders__id_284.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 284 **id**: 284 **customer_id**: 6 **order_date**: 2025-07-26 **total_amount**: 29.98"
+    },
+    {
+      "source": "orders__id_285.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 285 **id**: 285 **customer_id**: 19 **order_date**: 2025-05-07 **total_amount**: 158.0"
+    },
+    {
+      "source": "orders__id_286.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 286 **id**: 286 **customer_id**: 15 **order_date**: 2025-04-27 **total_amount**: 158.0"
+    },
+    {
+      "source": "orders__id_287.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 287 **id**: 287 **customer_id**: 24 **order_date**: 2025-06-13 **total_amount**: 331.97"
+    },
+    {
+      "source": "orders__id_288.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 288 **id**: 288 **customer_id**: 25 **order_date**: 2025-08-20 **total_amount**: 117.0"
+    },
+    {
+      "source": "orders__id_289.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 289 **id**: 289 **customer_id**: 11 **order_date**: 2025-09-16 **total_amount**: 257.0"
+    },
+    {
+      "source": "orders__id_29.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 29 **id**: 29 **customer_id**: 20 **order_date**: 2025-09-21 **total_amount**: 126.5"
+    },
+    {
+      "source": "orders__id_290.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 290 **id**: 290 **customer_id**: 13 **order_date**: 2025-08-09 **total_amount**: 380.97"
+    },
+    {
+      "source": "orders__id_291.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 291 **id**: 291 **customer_id**: 21 **order_date**: 2025-07-08 **total_amount**: 108.98"
+    },
+    {
+      "source": "orders__id_292.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 292 **id**: 292 **customer_id**: 6 **order_date**: 2025-06-27 **total_amount**: 217.49"
+    },
+    {
+      "source": "orders__id_293.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 293 **id**: 293 **customer_id**: 5 **order_date**: 2025-06-08 **total_amount**: 306.0"
+    },
+    {
+      "source": "orders__id_294.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 294 **id**: 294 **customer_id**: 18 **order_date**: 2025-06-10 **total_amount**: 235.0"
+    },
+    {
+      "source": "orders__id_295.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 295 **id**: 295 **customer_id**: 17 **order_date**: 2025-04-11 **total_amount**: 178.49"
+    },
+    {
+      "source": "orders__id_296.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 296 **id**: 296 **customer_id**: 19 **order_date**: 2025-05-24 **total_amount**: 233.0"
+    },
+    {
+      "source": "orders__id_297.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 297 **id**: 297 **customer_id**: 4 **order_date**: 2025-04-17 **total_amount**: 118.5"
+    },
+    {
+      "source": "orders__id_298.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 298 **id**: 298 **customer_id**: 15 **order_date**: 2025-09-24 **total_amount**: 315.0"
+    },
+    {
+      "source": "orders__id_299.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 299 **id**: 299 **customer_id**: 22 **order_date**: 2025-07-22 **total_amount**: 58.0"
+    },
+    {
+      "source": "orders__id_3.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 3 **id**: 3 **customer_id**: 16 **order_date**: 2025-06-29 **total_amount**: 258.97"
+    },
+    {
+      "source": "orders__id_30.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 30 **id**: 30 **customer_id**: 19 **order_date**: 2025-05-09 **total_amount**: 15.0"
+    },
+    {
+      "source": "orders__id_300.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 300 **id**: 300 **customer_id**: 27 **order_date**: 2025-10-08 **total_amount**: 94.0"
+    },
+    {
+      "source": "orders__id_31.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 31 **id**: 31 **customer_id**: 14 **order_date**: 2025-04-23 **total_amount**: 281.99"
+    },
+    {
+      "source": "orders__id_32.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 32 **id**: 32 **customer_id**: 5 **order_date**: 2025-04-20 **total_amount**: 311.0"
+    },
+    {
+      "source": "orders__id_33.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 33 **id**: 33 **customer_id**: 19 **order_date**: 2025-09-13 **total_amount**: 49.0"
+    },
+    {
+      "source": "orders__id_34.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 34 **id**: 34 **customer_id**: 17 **order_date**: 2025-08-02 **total_amount**: 158.0"
+    },
+    {
+      "source": "orders__id_35.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 35 **id**: 35 **customer_id**: 10 **order_date**: 2025-08-29 **total_amount**: 310.95"
+    },
+    {
+      "source": "orders__id_36.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 36 **id**: 36 **customer_id**: 29 **order_date**: 2025-09-04 **total_amount**: 184.0"
+    },
+    {
+      "source": "orders__id_37.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 37 **id**: 37 **customer_id**: 7 **order_date**: 2025-07-13 **total_amount**: 137.98"
+    },
+    {
+      "source": "orders__id_38.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 38 **id**: 38 **customer_id**: 29 **order_date**: 2025-09-25 **total_amount**: 58.0"
+    },
+    {
+      "source": "orders__id_39.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 39 **id**: 39 **customer_id**: 2 **order_date**: 2025-10-08 **total_amount**: 159.98"
+    },
+    {
+      "source": "orders__id_4.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 4 **id**: 4 **customer_id**: 24 **order_date**: 2025-05-12 **total_amount**: 299.5"
+    },
+    {
+      "source": "orders__id_40.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 40 **id**: 40 **customer_id**: 23 **order_date**: 2025-06-21 **total_amount**: 39.5"
+    },
+    {
+      "source": "orders__id_41.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 41 **id**: 41 **customer_id**: 29 **order_date**: 2025-04-15 **total_amount**: 142.97"
+    },
+    {
+      "source": "orders__id_42.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 42 **id**: 42 **customer_id**: 18 **order_date**: 2025-09-01 **total_amount**: 119.97"
+    },
+    {
+      "source": "orders__id_43.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 43 **id**: 43 **customer_id**: 8 **order_date**: 2025-04-21 **total_amount**: 237.0"
+    },
+    {
+      "source": "orders__id_44.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 44 **id**: 44 **customer_id**: 29 **order_date**: 2025-06-26 **total_amount**: 102.0"
+    },
+    {
+      "source": "orders__id_45.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 45 **id**: 45 **customer_id**: 1 **order_date**: 2025-08-24 **total_amount**: 204.99"
+    },
+    {
+      "source": "orders__id_46.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 46 **id**: 46 **customer_id**: 13 **order_date**: 2025-09-29 **total_amount**: 178.5"
+    },
+    {
+      "source": "orders__id_47.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 47 **id**: 47 **customer_id**: 22 **order_date**: 2025-08-20 **total_amount**: 403.48"
+    },
+    {
+      "source": "orders__id_48.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 48 **id**: 48 **customer_id**: 13 **order_date**: 2025-04-18 **total_amount**: 173.47"
+    },
+    {
+      "source": "orders__id_49.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 49 **id**: 49 **customer_id**: 2 **order_date**: 2025-09-11 **total_amount**: 369.97"
+    },
+    {
+      "source": "orders__id_5.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 5 **id**: 5 **customer_id**: 25 **order_date**: 2025-09-26 **total_amount**: 75.0"
+    },
+    {
+      "source": "orders__id_50.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 50 **id**: 50 **customer_id**: 7 **order_date**: 2025-08-04 **total_amount**: 29.0"
+    },
+    {
+      "source": "orders__id_51.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 51 **id**: 51 **customer_id**: 17 **order_date**: 2025-05-24 **total_amount**: 166.0"
+    },
+    {
+      "source": "orders__id_52.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 52 **id**: 52 **customer_id**: 30 **order_date**: 2025-07-16 **total_amount**: 256.48"
+    },
+    {
+      "source": "orders__id_53.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 53 **id**: 53 **customer_id**: 13 **order_date**: 2025-04-13 **total_amount**: 277.0"
+    },
+    {
+      "source": "orders__id_54.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 54 **id**: 54 **customer_id**: 22 **order_date**: 2025-08-25 **total_amount**: 170.99"
+    },
+    {
+      "source": "orders__id_55.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 55 **id**: 55 **customer_id**: 14 **order_date**: 2025-05-13 **total_amount**: 265.5"
+    },
+    {
+      "source": "orders__id_56.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 56 **id**: 56 **customer_id**: 16 **order_date**: 2025-08-26 **total_amount**: 59.97"
+    },
+    {
+      "source": "orders__id_57.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 57 **id**: 57 **customer_id**: 22 **order_date**: 2025-04-29 **total_amount**: 111.49"
+    },
+    {
+      "source": "orders__id_58.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 58 **id**: 58 **customer_id**: 1 **order_date**: 2025-09-27 **total_amount**: 148.0"
+    },
+    {
+      "source": "orders__id_59.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 59 **id**: 59 **customer_id**: 29 **order_date**: 2025-04-30 **total_amount**: 92.5"
+    },
+    {
+      "source": "orders__id_6.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 6 **id**: 6 **customer_id**: 6 **order_date**: 2025-04-17 **total_amount**: 315.0"
+    },
+    {
+      "source": "orders__id_60.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 60 **id**: 60 **customer_id**: 5 **order_date**: 2025-04-24 **total_amount**: 79.0"
+    },
+    {
+      "source": "orders__id_61.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 61 **id**: 61 **customer_id**: 8 **order_date**: 2025-08-24 **total_amount**: 222.99"
+    },
+    {
+      "source": "orders__id_62.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 62 **id**: 62 **customer_id**: 22 **order_date**: 2025-05-26 **total_amount**: 230.5"
+    },
+    {
+      "source": "orders__id_63.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 63 **id**: 63 **customer_id**: 24 **order_date**: 2025-06-09 **total_amount**: 237.97"
+    },
+    {
+      "source": "orders__id_64.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 64 **id**: 64 **customer_id**: 9 **order_date**: 2025-06-18 **total_amount**: 19.99"
+    },
+    {
+      "source": "orders__id_65.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 65 **id**: 65 **customer_id**: 9 **order_date**: 2025-07-15 **total_amount**: 138.5"
+    },
+    {
+      "source": "orders__id_66.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 66 **id**: 66 **customer_id**: 23 **order_date**: 2025-08-30 **total_amount**: 137.0"
+    },
+    {
+      "source": "orders__id_67.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 67 **id**: 67 **customer_id**: 18 **order_date**: 2025-06-11 **total_amount**: 376.97"
+    },
+    {
+      "source": "orders__id_68.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 68 **id**: 68 **customer_id**: 13 **order_date**: 2025-06-08 **total_amount**: 158.0"
+    },
+    {
+      "source": "orders__id_69.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 69 **id**: 69 **customer_id**: 25 **order_date**: 2025-07-01 **total_amount**: 252.0"
+    },
+    {
+      "source": "orders__id_7.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 7 **id**: 7 **customer_id**: 18 **order_date**: 2025-10-06 **total_amount**: 98.0"
+    },
+    {
+      "source": "orders__id_70.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 70 **id**: 70 **customer_id**: 1 **order_date**: 2025-07-01 **total_amount**: 207.5"
+    },
+    {
+      "source": "orders__id_71.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 71 **id**: 71 **customer_id**: 1 **order_date**: 2025-06-30 **total_amount**: 118.5"
+    },
+    {
+      "source": "orders__id_72.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 72 **id**: 72 **customer_id**: 14 **order_date**: 2025-09-04 **total_amount**: 208.97"
+    },
+    {
+      "source": "orders__id_73.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 73 **id**: 73 **customer_id**: 11 **order_date**: 2025-07-03 **total_amount**: 196.49"
+    },
+    {
+      "source": "orders__id_74.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 74 **id**: 74 **customer_id**: 18 **order_date**: 2025-09-25 **total_amount**: 106.49"
+    },
+    {
+      "source": "orders__id_75.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 75 **id**: 75 **customer_id**: 27 **order_date**: 2025-10-03 **total_amount**: 179.0"
+    },
+    {
+      "source": "orders__id_76.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 76 **id**: 76 **customer_id**: 4 **order_date**: 2025-05-17 **total_amount**: 88.99"
+    },
+    {
+      "source": "orders__id_77.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 77 **id**: 77 **customer_id**: 20 **order_date**: 2025-05-06 **total_amount**: 50.0"
+    },
+    {
+      "source": "orders__id_78.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 78 **id**: 78 **customer_id**: 4 **order_date**: 2025-05-13 **total_amount**: 59.97"
+    },
+    {
+      "source": "orders__id_79.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 79 **id**: 79 **customer_id**: 22 **order_date**: 2025-07-04 **total_amount**: 324.97"
+    },
+    {
+      "source": "orders__id_8.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 8 **id**: 8 **customer_id**: 25 **order_date**: 2025-04-27 **total_amount**: 108.48"
+    },
+    {
+      "source": "orders__id_80.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 80 **id**: 80 **customer_id**: 26 **order_date**: 2025-09-08 **total_amount**: 237.0"
+    },
+    {
+      "source": "orders__id_81.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 81 **id**: 81 **customer_id**: 14 **order_date**: 2025-04-22 **total_amount**: 295.5"
+    },
+    {
+      "source": "orders__id_82.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 82 **id**: 82 **customer_id**: 4 **order_date**: 2025-06-20 **total_amount**: 196.5"
+    },
+    {
+      "source": "orders__id_83.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 83 **id**: 83 **customer_id**: 21 **order_date**: 2025-07-31 **total_amount**: 153.48"
+    },
+    {
+      "source": "orders__id_84.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 84 **id**: 84 **customer_id**: 8 **order_date**: 2025-06-12 **total_amount**: 270.99"
+    },
+    {
+      "source": "orders__id_85.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 85 **id**: 85 **customer_id**: 12 **order_date**: 2025-08-03 **total_amount**: 89.96"
+    },
+    {
+      "source": "orders__id_86.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 86 **id**: 86 **customer_id**: 8 **order_date**: 2025-06-26 **total_amount**: 399.0"
+    },
+    {
+      "source": "orders__id_87.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 87 **id**: 87 **customer_id**: 3 **order_date**: 2025-07-25 **total_amount**: 214.0"
+    },
+    {
+      "source": "orders__id_88.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 88 **id**: 88 **customer_id**: 19 **order_date**: 2025-07-06 **total_amount**: 454.0"
+    },
+    {
+      "source": "orders__id_89.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 89 **id**: 89 **customer_id**: 23 **order_date**: 2025-06-14 **total_amount**: 116.99"
+    },
+    {
+      "source": "orders__id_9.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 9 **id**: 9 **customer_id**: 24 **order_date**: 2025-08-02 **total_amount**: 226.0"
+    },
+    {
+      "source": "orders__id_90.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 90 **id**: 90 **customer_id**: 11 **order_date**: 2025-09-08 **total_amount**: 186.0"
+    },
+    {
+      "source": "orders__id_91.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 91 **id**: 91 **customer_id**: 9 **order_date**: 2025-05-11 **total_amount**: 163.49"
+    },
+    {
+      "source": "orders__id_92.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 92 **id**: 92 **customer_id**: 10 **order_date**: 2025-10-05 **total_amount**: 64.96"
+    },
+    {
+      "source": "orders__id_93.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 93 **id**: 93 **customer_id**: 10 **order_date**: 2025-04-13 **total_amount**: 153.0"
+    },
+    {
+      "source": "orders__id_94.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 94 **id**: 94 **customer_id**: 10 **order_date**: 2025-06-10 **total_amount**: 266.99"
+    },
+    {
+      "source": "orders__id_95.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 95 **id**: 95 **customer_id**: 13 **order_date**: 2025-06-05 **total_amount**: 45.0"
+    },
+    {
+      "source": "orders__id_96.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 96 **id**: 96 **customer_id**: 22 **order_date**: 2025-09-25 **total_amount**: 44.99"
+    },
+    {
+      "source": "orders__id_97.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 97 **id**: 97 **customer_id**: 4 **order_date**: 2025-05-19 **total_amount**: 319.0"
+    },
+    {
+      "source": "orders__id_98.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 98 **id**: 98 **customer_id**: 10 **order_date**: 2025-05-16 **total_amount**: 45.0"
+    },
+    {
+      "source": "orders__id_99.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from orders: id = 99 **id**: 99 **customer_id**: 4 **order_date**: 2025-08-16 **total_amount**: 59.49"
+    },
+    {
+      "source": "products__id_1.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from products: id = 1 **id**: 1 **name**: Sci-Fi Novel **category**: Books **price**: 14.99"
+    },
+    {
+      "source": "products__id_10.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from products: id = 10 **id**: 10 **name**: Puzzle **category**: Games **price**: 15.0"
+    },
+    {
+      "source": "products__id_2.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from products: id = 2 **id**: 2 **name**: Board Game **category**: Games **price**: 39.5"
+    },
+    {
+      "source": "products__id_3.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from products: id = 3 **id**: 3 **name**: Wireless Mouse **category**: Electronics **price**: 25.0"
+    },
+    {
+      "source": "products__id_4.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from products: id = 4 **id**: 4 **name**: Coffee Grinder **category**: Home **price**: 52.0"
+    },
+    {
+      "source": "products__id_5.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from products: id = 5 **id**: 5 **name**: T-Shirt **category**: Clothing **price**: 19.99"
+    },
+    {
+      "source": "products__id_6.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from products: id = 6 **id**: 6 **name**: Headphones **category**: Electronics **price**: 79.0"
+    },
+    {
+      "source": "products__id_7.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from products: id = 7 **id**: 7 **name**: Cookbook **category**: Books **price**: 29.0"
+    },
+    {
+      "source": "products__id_8.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from products: id = 8 **id**: 8 **name**: Desk Lamp **category**: Home **price**: 34.5"
+    },
+    {
+      "source": "products__id_9.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Record from products: id = 9 **id**: 9 **name**: Hoodie **category**: Clothing **price**: 49.0"
+    }
+  ]
+}

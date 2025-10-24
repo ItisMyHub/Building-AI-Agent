@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
+
+:root {
+  --bg-color: #f8fefc;
+  --panel-bg: #ffffff;
+  --primary-color: #2e8b57; 
+  --accent-color: #3cb371; 
+  --text-color: #333333;
+  --text-muted: #777777;
+  --border-color: #e0e0e0;
+  --shadow-color: rgba(0, 0, 0, 0.05);
+  --font-family: 'Inter', sans-serif;
+}
+
+body {
+  font-family: var(--font-family);
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.portal-container {
+  max-width: 1100px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+
+header { padding: 20px 0; }
+header h1 { text-align: center; color: var(--primary-color); font-size: 2.5rem; margin-bottom: 10px; }
+
+.portal-tabs { display: flex; justify-content: center; border-bottom: 2px solid var(--border-color); margin-bottom: 30px; }
+.tab { padding: 10px 20px; cursor: pointer; color: var(--text-muted); text-decoration: none; border-bottom: 3px solid transparent; transition: all 0.3s ease; font-weight: 500; }
+.tab.active { color: var(--primary-color); border-bottom-color: var(--primary-color); }
+
+main { flex-grow: 1; }
+
+.ask-form .input-group { display: flex; gap: 10px; margin-bottom: 15px; }
+#query { flex-grow: 1; padding: 12px 15px; border: 1px solid var(--border-color); border-radius: 8px; background-color: var(--panel-bg); color: var(--text-color); font-size: 1.1rem; box-shadow: 0 2px 4px var(--shadow-color); }
+#query::placeholder { color: #aaa; }
+/* This line of code mirrors identical styles for Showcase 2 input field */
+#query2 { 
+  flex-grow: 1; 
+  padding: 12px 15px; 
+  border: 1px solid var(--border-color); 
+  border-radius: 8px; 
+  background-color: var(--panel-bg); 
+  color: var(--text-color); 
+  font-size: 1.1rem; 
+  box-shadow: 0 2px 4px var(--shadow-color); 
+}
+#query2::placeholder { color: #aaa; }
+
+.btn { padding: 12px 20px; border: none; border-radius: 8px; cursor: pointer; font-weight: 500; font-size: 1rem; transition: background-color 0.3s ease; background-color: var(--primary-color); color: white; }
+.btn:hover { background-color: var(--accent-color); }
+
+.examples { text-align: center; margin-bottom: 30px; }
+.examples ul { list-style: none; padding: 0; margin: 10px 0 0 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 8px 15px; }
+.examples a { color: var(--primary-color); text-decoration: none; font-size: 0.9rem; }
+.examples a:hover { text-decoration: underline; }
+
+.result-grid { display: grid; grid-template-columns: 1fr 1.2fr; gap: 20px; }
+.panel { background-color: var(--panel-bg); border: 1px solid var(--border-color); border-radius: 12px; box-shadow: 0 4px 12px var(--shadow-color); display: flex; flex-direction: column; }
+.panel h3 { margin: 0; padding: 15px 20px; color: var(--primary-color); border-bottom: 1px solid var(--border-color); font-size: 1.1rem; }
+.panel-content { padding: 20px; flex-grow: 1; }
+
+.doc-list { list-style: none; padding: 0; margin: 0; }
+.doc-list li { padding: 8px 0; border-bottom: 1px solid #f0f0f0; font-size: 0.95rem; }
+.doc-list li:last-child { border-bottom: none; }
+.badge { display: inline-block; background-color: #d4f0de; color: var(--primary-color); padding: 3px 8px; border-radius: 12px; font-weight: 700; margin-right: 10px; font-size: 0.85rem; }
+
+.placeholder { color: var(--text-muted); font-style: italic; }
+.generation-form .gen-controls { display: flex; gap: 10px; }
+.generation-form select { flex-grow: 1; padding: 10px; border: 1px solid var(--border-color); border-radius: 8px; font-size: 1rem; }
+.llm-answer-box { margin-top: 15px; }
+.llm-content { white-space: pre-wrap; word-break: break-word; line-height: 1.7; }
+
+.generating-status {
+    color: var(--primary-color);
+    font-weight: 500;
+    animation: pulse 1.5s infinite ease-in-out;
+}
+@keyframes pulse {
+    0% { opacity: 0.7; }
+    50% { opacity: 1; }
+    100% { opacity: 0.7; }
+}
+.error-text { color: #d9534f; font-weight: bold; }
+
+footer { text-align: center; margin-top: 50px; padding: 20px 0; border-top: 1px solid var(--border-color); color: var(--text-muted); font-size: 0.9rem; }
+
+@media (max-width: 800px) { .result-grid { grid-template-columns: 1fr; } }

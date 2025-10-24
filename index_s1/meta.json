@@ -1,0 +1,137 @@
+{
+  "count": 22,
+  "metadata": [
+    {
+      "source": "01_shopping_list_week1.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Weekly Shopping List (Week 1) A categorized grocery list plus a detailed Chickpea Spinach Pasta Bake recipe, directions, and leftover ideas. Produce Apples (6) Bananas (1 bunch) Spinach (2 bags) Carrots (1kg) Dairy Milk 2% (2L) Greek Yogurt (500g) Cheddar Cheese (300g) Pantry Olive Oil (500ml) Whole Grain Pasta (2 packs) Canned Chickpeas (3) Tomato Sauce (2 jars) Notes Focus on preparing three vegetarian dinners and healthy snacks. Featured Dinner Recipe: Chickpea Spinach Pasta Bake This recipe uses items from the list to justify quantities. Ingredients (Serves 4) Whole Grain Pasta: 1 pack (250g dry) Canned Chickpeas: 2 cans (drained & rinsed) Tomato Sauce: 1 jar (approx. 400–500g) Spinach: 1 bag (roughly 150–200g) Cheddar Cheese: 150g (half the block), grated Olive Oil: 2 tbsp Carrots: 2 medium, diced (from 1kg bag) Milk: 60ml (to slightly loosen sauce if thick) Salt & Pepper: to taste Optional: 1 apple (diced) for a sweet side salad with yogurt dressing Directions 1. Preheat oven to 190°C. 2. Cook pasta in salted water until just shy of al dente; drain. 3. In a large pan, warm olive oil; sauté diced carrots 4–5 min until slightly soft. 4. Add chickpeas, spinach (wilting it down), and tomato sauce; simmer 3–4 min. Loosen with milk if needed. 5. Stir in cooked pasta and half the grated cheddar; season with salt and pepper. 6. Transfer to a baking dish, top with remaining cheddar, and bake 12–15 min until bubbling and lightly golden. 7. Serve with sliced apples and a spoon of Greek yogurt as a cool contrast. Leftover Utilisation Remaining spinach: use in omelettes or smoothies. Extra chickpeas: roast with olive oil for snacks. Remaining cheese: grate over future pasta or salads."
+    },
+    {
+      "source": "02_shopping_list_week2.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Weekly Shopping List (Week 2) Shopping plan with a Citrus Ginger Chicken & Tofu power bowl recipe, dressing, steps, leftovers, and nutrition rationale. Produce Oranges (4) Broccoli (2 heads) Mushrooms (200g) Sweet Potatoes (3) Dairy & Eggs Eggs (12) Cottage Cheese (400g) Proteins Chicken Breast (1.2kg) Tofu (2 blocks) Pantry Brown Rice (1kg) Black Beans (2 cans) Almond Butter (1 jar) Notes Meal prep goal: stir-fry, roasted vegetables, protein bowls. Featured Dinner Recipe: Citrus Ginger Chicken & Tofu Power Bowls This dual-protein bowl (half chicken, half tofu) explains the larger protein quantities and staple pantry items. Ingredients (Makes 4 hearty bowls) Chicken Breast: 600g (half of total; remainder for later lunches) Tofu: 1 block (press 15 min) (half of total; second block for stir-fry night) Brown Rice: 2 cups dry (≈ 400g) from 1kg bag Broccoli: 1 head (cut into florets) (second head for roasting another day) Mushrooms: 100g (half the pack; rest for stir-fry) Sweet Potatoes: 2 medium (cube) (1 left for roasting side) Black Beans: 1 can (rinsed) (2nd can for protein bowls later) Oranges: 1 (zest + juice for sauce) (3 left for snacks / breakfast) Almond Butter: 2 tbsp (dressing base) Eggs: 2 (soft‑boiled for topping) (10 remain for breakfasts) Cottage Cheese: (Optional) 4 tbsp as a high‑protein side scoop Pantry Additions: 1.5 tbsp olive oil (assumed staple), salt, pepper, chili flakes, minced garlic or powder, 1 tsp grated ginger (fresh or powder substitute) Citrus Ginger Dressing Whisk: orange juice + zest, almond butter, 2 tbsp warm water, 1 tsp grated ginger, pinch salt, chili flakes to taste. Thin to pourable consistency. Directions 1. Cook brown rice (rinse; simmer 2 cups rice with 4 cups water + pinch salt ~35–40 min). Fluff and rest. 2. While rice cooks: cube sweet potatoes; toss with 1 tsp oil,"
+    },
+    {
+      "source": "02_shopping_list_week2.md",
+      "chunk_index": 1,
+      "start_word": 240,
+      "text": "Dressing Whisk: orange juice + zest, almond butter, 2 tbsp warm water, 1 tsp grated ginger, pinch salt, chili flakes to taste. Thin to pourable consistency. Directions 1. Cook brown rice (rinse; simmer 2 cups rice with 4 cups water + pinch salt ~35–40 min). Fluff and rest. 2. While rice cooks: cube sweet potatoes; toss with 1 tsp oil, salt, pepper. Roast at 200°C for 20–22 min (start mushrooms on same tray at minute 10). 3. Steam or roast broccoli florets lightly (tender‑crisp, ~6–7 min). 4. Soft‑boil eggs (6 min in simmering water; ice bath; peel carefully). 5. Press and cube tofu; sear in a nonstick pan with 1 tsp oil until golden; season with pinch salt & pepper. Remove. 6. In same pan, cook sliced chicken (light oil, med‑high heat) until internal temp 74°C; splash of orange juice at end to glaze. 7. Warm black beans briefly (rinse first) with a spoon of dressing to coat. 8. Assemble bowls: rice base, then sweet potato, broccoli, mushrooms, beans, chicken, tofu. Drizzle dressing. Halve eggs on top. Optional cottage cheese scoop on side. 9. Garnish with extra orange zest or chili flakes. Serve immediately. Leftover Utilisation Remaining chicken: slice for two lunch wraps or salads. Second tofu block: ginger garlic stir‑fry with remaining broccoli head + mushrooms. Extra black bean can: mash with spices for quick bean spread. Remaining oranges: breakfast fruit or fresh juice. Sweet potato (1): cube and roast for a side or blend into a protein smoothie. Nutritional Rationale (High-Level) Combining lean chicken, tofu, beans, eggs, and cottage cheese options yields a diversified amino acid profile; almond butter & brown rice contribute sustained energy; citrus dressing adds vitamin C aiding iron absorption from plant sources."
+    },
+    {
+      "source": "03_academic_prob_models.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "An Overview of Probabilistic Models Introduces key probability concepts, applications, and contrasts Bayesian vs. frequentist approaches. Probabilistic models provide a principled framework for reasoning under uncertainty. They define a space of possible worlds and assign probabilities to events. Key Concepts Random Variables Joint Distributions Conditional Independence Bayesian Inference Applications Used in natural language processing, robotics, bioinformatics, and decision support systems. Bayesian vs Frequentist Bayesian methods incorporate prior beliefs and update them with data, while frequentist approaches focus on long-run frequencies. Conclusion Probabilistic thinking enables robust predictions and rational decision-making in uncertain domains."
+    },
+    {
+      "source": "04_academic_vector_embeddings.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Vector Embeddings in NLP Surveys embedding models, evaluation methods, challenges (bias, polysemy), and future directions. Vector embeddings map discrete tokens (words, sentences, documents) into continuous vector spaces that capture semantic relationships. Common Models Word2Vec GloVe fastText Transformer-based embeddings Evaluation Intrinsic: analogy tasks, similarity scores. Extrinsic: downstream performance in classification, retrieval. Challenges Bias, polysemy, domain shift, and high-dimensional sparsity. Future Directions Contextual, multimodal, and instruction-tuned representations."
+    },
+    {
+      "source": "05_tech_rest_api_design.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Principles of REST API Design Core REST principles, versioning strategies, structured error handling, and security best practices. A well-designed REST API is predictable, evolvable, and easy to consume. Core Principles Resource Orientation Statelessness Standard Methods (GET, POST, PUT, DELETE) Consistent Naming Versioning Use URI or header-based versioning to manage breaking changes. Error Handling Return structured error objects with machine-readable codes. Security Apply least privilege, use HTTPS, and validate inputs rigorously."
+    },
+    {
+      "source": "06_tech_distributed_systems.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Fundamentals of Distributed Systems Key challenges, CAP theorem, and common patterns like leader election and quorum operations. Distributed systems coordinate multiple computers to provide a unified service. Challenges Latency and Partial Failures Consensus Data Replication Network Partitions CAP Theorem A system can only simultaneously provide two of Consistency, Availability, and Partition Tolerance in the presence of failures. Patterns Leader Election Quorum Reads/Writes Eventual Consistency"
+    },
+    {
+      "source": "ai_ethics.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "AI Ethics and Safety Highlights concerns around bias, accountability, and privacy (e.g., GDPR) for responsible AI. Artificial Intelligence (AI) presents transformative potential, but it also introduces significant ethical challenges. Key areas of concern include algorithmic bias, job displacement, data privacy, and the development of autonomous systems. **Bias:** AI models trained on biased historical data can perpetuate and amplify societal inequalities. Ensuring fairness and representation in training data is a critical step. **Accountability:** When an AI system makes a mistake, determining who is responsible—the developer, the user, or the owner—is a complex legal and ethical question. **Privacy:** AI's ability to analyze vast datasets raises concerns about surveillance and the erosion of personal privacy. Regulations like GDPR aim to provide a framework for data protection."
+    },
+    {
+      "source": "bioluminescence_in_nature.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Bioluminescence: Nature's Light Explains bioluminescence purposes (mating, luring prey, defense) with examples like fireflies and anglerfish. Bioluminescence is the production and emission of light by a living organism. It is a form of chemiluminescence, where light energy is released by a chemical reaction. The most well-known example is the firefly, but this phenomenon occurs widely in marine vertebrates and invertebrates, as well as in some fungi and microorganisms. Organisms use bioluminescence for various purposes, including: **Attracting Mates:** Fireflies use specific flash patterns to find partners. **Luring Prey:** The anglerfish uses a lighted lure to attract smaller fish in the deep sea. **Defense:** Some squid release a cloud of bioluminescent liquid to startle and distract predators."
+    },
+    {
+      "source": "blockchain_fundamentals.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Blockchain Fundamentals Covers decentralization, immutability, and transparency in distributed ledgers. A blockchain is a decentralized, distributed, and often public, digital ledger consisting of records called blocks that are used to record transactions across many computers. This distribution ensures that no single entity can alter the records without the consensus of the network. **Decentralization:** There is no central authority or single point of failure. The ledger is maintained by a network of participants. **Immutability:** Once a transaction is recorded on the blockchain, it is extremely difficult to alter. Each block is cryptographically linked to the one before it. **Transparency:** In public blockchains, anyone can view the transactions, although the identities of the participants are typically pseudonymous."
+    },
+    {
+      "source": "cognitive_dissonance_theory.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Theory of Cognitive Dissonance Defines dissonance and how people reduce it by adjusting beliefs/behaviors (e.g., quitting smoking). Cognitive dissonance is a psychological theory that refers to the mental discomfort experienced by a person who holds two or more contradictory beliefs, ideas, or values, or is confronted by new information that conflicts with existing beliefs. To reduce this discomfort, individuals are motivated to change one or more of the conflicting elements. For example, a person who smokes but knows it is unhealthy might quit smoking, downplay the health risks (\"it's not that bad\"), or justify their behavior (\"it helps me relax\"). This drive to resolve inconsistency is a powerful motivator of human behavior."
+    },
+    {
+      "source": "crispr_gene_editing.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "CRISPR: A Revolution in Gene Editing Outlines CRISPR-Cas9 components (Cas9, gRNA) and broad biomedical/agricultural applications CRISPR-Cas9 is a revolutionary gene-editing technology that enables scientists to make precise changes to the DNA of living organisms. It is faster, cheaper, and more accurate than previous methods of DNA editing. The system consists of two key components: 1. **Cas9:** An enzyme that acts like a pair of \"molecular scissors,\" capable of cutting strands of DNA. 2. **Guide RNA (gRNA):** A small, customizable piece of RNA that guides the Cas9 enzyme to a specific sequence of DNA. CRISPR has vast potential applications, from correcting genetic defects and treating diseases to improving crop resilience."
+    },
+    {
+      "source": "dark_matter_mystery.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "The Mystery of Dark Matter Summarizes evidence from gravitational effects and notes leading particle candidates. Dark matter is a mysterious, non-luminous substance that is believed to constitute approximately 27% of the universe. It does not emit, absorb, or reflect any electromagnetic radiation, making it impossible to observe directly with telescopes. Its existence is inferred from its gravitational effects on visible matter, such as the rotation speeds of galaxies and the gravitational lensing of light from distant objects. While several candidates have been proposed, such as WIMPs (Weakly Interacting Massive Particles), the true nature of dark matter remains one of the greatest unsolved mysteries in modern physics."
+    },
+    {
+      "source": "fusion_energy_promise.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "The Promise of Fusion Energy Describes fusion basics, abundant fuels, lower waste vs. fission, and remaining engineering hurdles Fusion is the process that powers the sun and other stars. It involves forcing two lighter atomic nuclei to combine into a heavier nucleus, releasing a tremendous amount of energy. If harnessed on Earth, fusion could provide a virtually limitless source of clean, safe, and carbon-free energy. The primary fuel for fusion—deuterium and lithium—is abundant in seawater and the Earth's crust. Unlike nuclear fission, fusion does not produce long-lived radioactive waste. While significant engineering challenges remain, projects like ITER are making steady progress toward achieving sustained fusion reactions."
+    },
+    {
+      "source": "history_of_the_internet.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "A Brief History of the Internet Key milestones including 1971 email, 1983 DNS, and the 1991 World Wide Web. The Internet began in the 1960s as a U.S. military project called ARPANET, designed to create a decentralized computer network that could withstand a nuclear attack. In the 1980s, the National Science Foundation created NSFNET, a network of supercomputer centers that became the backbone for the modern internet. Key milestones include: **1971:** Email was invented by Ray Tomlinson. **1983:** The Domain Name System (DNS) was introduced, making addresses more user-friendly (e.g., google.com instead of an IP address). **1991:** Tim Berners-Lee released the World Wide Web, introducing URLs, HTTP, and HTML, making the internet accessible to the public."
+    },
+    {
+      "source": "mycorrhizal_networks.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Mycorrhizal Networks: The Wood Wide Web Explains fungal-plant symbioses that transfer water/nutrients and bolster forest health. Mycorrhizal networks are underground hyphal networks created by mycorrhizal fungi that connect individual plants together and transfer water, carbon, nitrogen, and other nutrients and minerals. These symbiotic relationships are critical for the health of forest ecosystems. The fungi receive carbohydrates from the trees, and in return, they help the trees absorb water and nutrients from the soil. These networks also allow trees to communicate, sending chemical signals to warn neighboring trees of insect attacks or disease."
+    },
+    {
+      "source": "neuroplasticity_explained.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Understanding Neuroplasticity The brain’s capacity to rewire for learning, memory, recovery; activities that enhance it. Neuroplasticity is the brain's ability to reorganize itself by forming new neural connections throughout life. This phenomenon allows the neurons (nerve cells) in the brain to compensate for injury and disease and to adjust their activities in response to new situations or to changes in their environment. This \"brain malleability\" is how we learn new skills, form memories, and recover from brain damage. Activities like learning a musical instrument, practicing mindfulness, and physical exercise can all promote positive neuroplastic changes."
+    },
+    {
+      "source": "quantum_computing_basics.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Introduction to Quantum Computing Basics of qubits and core ideas: superposition, entanglement, and interference. Quantum computing harnesses the principles of quantum mechanics to solve problems too complex for classical computers. Unlike classical bits, which are either a 0 or a 1, a quantum bit, or **qubit**, can exist in a superposition of both states simultaneously. Key Concepts 1. **Superposition:** A qubit can be in a combination of 0 and 1 at the same time, allowing quantum computers to explore many possibilities at once. 2. **Entanglement:** Two or more qubits can become linked in such a way that their fates are intertwined, no matter the distance separating them. Measuring one instantly influences the other. 3. **Interference:** Quantum algorithms use interference to amplify the probability of getting the right answer while canceling out the probability of getting the wrong ones."
+    },
+    {
+      "source": "renewable_energy_sources.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Sources of Renewable Energy Overview of solar, wind, hydro, geothermal, and biomass with brief descriptions. Renewable energy is derived from natural sources that are replenished on a human timescale. The most common sources include solar, wind, hydro, geothermal, and biomass. **Solar Power:** Converts sunlight into electricity using photovoltaic (PV) panels or concentrating solar-thermal power systems. It is the most abundant energy resource on Earth. **Wind Power:** Uses wind turbines to capture kinetic energy from the wind and convert it into electricity. Wind farms can be located both onshore and offshore. **Hydropower:** Generates electricity by using the gravitational force of falling or flowing water to turn a turbine. It is one of the oldest and most established sources of renewable power."
+    },
+    {
+      "source": "stoicism_philosophy.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "An Introduction to Stoicism Focuses on virtue and the dichotomy of control: prioritizing judgments/actions over externals. Stoicism is an ancient Greek school of philosophy founded in Athens by Zeno of Citium. It teaches that virtue, the highest good, is based on knowledge, and that the wise live in harmony with the divine Reason (also identified with Fate and Providence) that governs nature. A central tenet of Stoicism is the dichotomy of control: recognizing the difference between what we can control and what we cannot. We should focus our energy on our own actions and judgments (what we can control) and accept external events (what we cannot) with tranquility."
+    },
+    {
+      "source": "sustainable_agriculture.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "Principles of Sustainable Agriculture Defines goals and practices like crop rotation, no-till farming, and IPM. Sustainable agriculture is a method of farming that focuses on producing food in a way that can be maintained over the long term without degrading the environment. It integrates three main goals: environmental health, economic profitability, and social equity. Key practices include: **Crop Rotation:** Planting different crops in succession to improve soil health and reduce pests. **No-Till Farming:** Planting crops without disturbing the soil through tillage to prevent erosion. **Integrated Pest Management (IPM):** Using a combination of methods to control pests, minimizing the reliance on chemical pesticides."
+    },
+    {
+      "source": "the_human_microbiome.md",
+      "chunk_index": 0,
+      "start_word": 0,
+      "text": "The Human Microbiome Describes microbial roles in digestion, immunity, and mental health (gut–brain axis). The human microbiome is the collection of all microbes, such as bacteria, fungi, viruses, and their genes, that naturally live on our bodies and inside us. These microbes are not invaders but are essential for human health. **Digestion:** Gut bacteria help break down complex carbohydrates that our bodies cannot digest on their own. **Immune System:** A healthy microbiome helps to train and regulate the immune system, protecting us from pathogens. **Mental Health:** Emerging research suggests a strong link between gut health and mental well-being, often referred to as the \"gut-brain axis.\""
+    }
+  ]
+}

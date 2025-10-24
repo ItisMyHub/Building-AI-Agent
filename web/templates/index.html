@@ -1,0 +1,221 @@
+<!-- 
+  This is the main HTML template for the project's web interface, used the Jinja2 templating engine with Flask to dynamically generate the content.
+  This one file contains the layout for both Showcase 1 and Showcase 2, and used JavaScript to switch between them.
+-->
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Showcase Portal</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="{{ url_for('static', filename='style.css') }}" rel="stylesheet">
+  <script>
+    function switchTab(evt, tabName) {
+      if (evt && evt.preventDefault) evt.preventDefault();
+      var s1 = document.getElementById('showcase1');
+      var s2 = document.getElementById('showcase2');
+      if (s1) s1.hidden = true;
+      if (s2) s2.hidden = true;
+      var target = document.getElementById(tabName);
+      if (target) target.hidden = false;
+      var tabs = document.querySelectorAll('.tab');
+      for (var i = 0; i < tabs.length; i++) tabs[i].classList.remove('active');
+      if (evt && evt.currentTarget) evt.currentTarget.classList.add('active');
+    }
+
+    async function generateAnswer(event, showcaseNum) {
+      event.preventDefault();
+
+      const form = event.target;
+      const formData = new FormData(form);
+      const answerId = 'llm-answer-content-' + showcaseNum;
+      const answerDiv = document.getElementById(answerId);
+
+      if (!answerDiv) {
+        console.error("CRITICAL: Answer container #" + answerId + " not found in the DOM.");
+        return;
+      }
+
+      // 1. Show loading state
+      answerDiv.innerHTML = '<p class="generating-status">Generating answer, please wait...</p>';
+
+      try {
+        // 2. Fetch the answer from the server
+        const response = await fetch('/generate', {
+          method: 'POST',
+          body: formData
+        });
+
+        if (!response.ok) {
+          throw new Error(`Server responded with status: ${response.status}`);
+        }
+
+        const result = await response.json();
+        console.log("Server response:", result);
+
+        // 3. Display the result or an error
+        if (result.error) {
+          answerDiv.innerHTML = `<p class="placeholder error-text">Error: ${result.error}</p>`;
+        } else if (result.llm_answer && result.llm_answer.trim() !== "") {
+          // Creating a text node to escape any special characters
+          const textNode = document.createTextNode(result.llm_answer);
+          const p = document.createElement('p');
+          p.appendChild(textNode);
+          // Replacing newlines with <br> tags for display
+          p.innerHTML = p.innerHTML.replace(/\n/g, '<br>');
+          answerDiv.innerHTML = '';
+          answerDiv.appendChild(p);
+        } else {
+          answerDiv.innerHTML = '<p class="placeholder">The LLM did not return an answer.</p>';
+        }
+
+      } catch (e) {
+        console.error("Failed to generate answer:", e);
+        answerDiv.innerHTML = `<p class="placeholder error-text">A client-side error occurred: ${e.message}</p>`;
+      }
+    }
+  </script>
+</head>
+<body>
+  <div class="portal-container">
+    <header>
+      <h1>Showcase Portal</h1>
+      <nav class="portal-tabs">
+        <a href="#" class="tab{% if showcase_id != '2' %} active{% endif %}" onclick="switchTab(event,'showcase1')">Showcase 1: Corpus Q&amp;A</a>
+        <a href="#" class="tab{% if showcase_id == '2' %} active{% endif %}" onclick="switchTab(event,'showcase2')">Showcase 2: Live DB Q&amp;A</a>
+      </nav>
+    </header>
+
+    <!-- SHOWCASE 1 UI-->
+    <main id="showcase1" {% if showcase_id == '2' %}hidden{% endif %}>
+      <!-- This is the main form for the RAG agent-->
+      <form id="askForm" method="POST" class="ask-form" action="/">
+        <input type="hidden" name="showcase_id" value="1">
+        <div class="input-group">
+          <input id="query" name="query" type="text" placeholder="Ask your questions here..." value="{% if showcase_id == '1' %}{{ query }}{% endif %}">
+          <button class="btn primary" type="submit">Ask</button>
+        </div>
+      </form>
+
+      <div class="examples">
+        <strong>Try an example:</strong>
+        <ul>
+          {% for ex in examples_s1 %}
+          <li>
+            <form method="POST" action="/" class="example-form">
+              <input type="hidden" name="showcase_id" value="1">
+              <input type="hidden" name="query" value="{{ ex }}">
+              <button type="submit" class="linklike">{{ ex }}</button>
+            </form>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      <div class="result-grid">
+        <div class="panel docs">
+          <h3>Retrieved Documents</h3>
+          <div class="panel-content">
+            {% if result and result.get('query') and showcase_id == '1' %}
+              {% if result.get('abstained') %}
+                <p class="placeholder">{{ result.get('abstain_message') }}</p>
+              {% elif result.get('relevant_docs') %}
+                <ul class="doc-list">
+                  {% for d in result.get('relevant_docs', []) %}
+                    <li><span class="badge">{{ "%.3f"|format(d.score) }}</span> <strong>{{ d.name }}</strong></li>
+                  {% endfor %}
+                </ul>
+              {% else %}
+                <p class="placeholder">{{ result.get('abstain_message') }}</p>
+              {% endif %}
+            {% else %}
+              <p class="placeholder">Documents relevant to your query will appear here...</p>
+            {% endif %}
+          </div>
+        </div>
+
+        <div class="panel answer">
+          <h3>Generated LLM Answer</h3>
+          <div class="panel-content">
+            <!-- 
+              This section shows the 'Generate' button only if documents were successfully retrieved.
+              This prevents the user from trying to generate an answer without any context.
+            -->
+            {% if result and result.get('query') and showcase_id == '1' and not result.get('abstained') and result.get('relevant_docs') %}
+              <form class="generation-form" onsubmit="generateAnswer(event, '1')">
+                <input type="hidden" name="showcase_id" value="1">
+                <input type="hidden" name="query" value="{{ query }}">
+                <div class="gen-controls">
+                  <select name="mode">
+                    <option value="detailed">Detailed Answer</option>
+                    <option value="bulleted">Bulleted Summary</option>
+                  </select>
+                  <button class="btn" type="submit">Generate</button>
+                </div>
+              </form>
+              <div class="llm-answer-box" id="llm-answer-content-1">
+                <p class="placeholder">Select a format and click 'Generate' to get a synthesized answer.</p>
+              </div>
+            {% else %}
+              <div class="llm-answer-box">
+                <p class="placeholder">A synthesized answer from the local LLM will appear here after retrieving relevant documents.</p>
+              </div>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <!-- SHOWCASE 2 -->
+    <main id="showcase2" {% if showcase_id != '2' %}hidden{% endif %}>
+  <!-- The form now directly triggers the final answer -->
+  <form id="askForm2" method="POST" class="ask-form" action="/">
+    <input type="hidden" name="showcase_id" value="2">
+    <div class="input-group">
+      <input id="query2" name="query" type="text" placeholder="Ask analytical questions about the database..." value="{% if showcase_id == '2' %}{{ query }}{% endif %}">
+      <button class="btn primary" type="submit">Ask</button>
+    </div>
+  </form>
+
+  <div class="examples">
+    <strong>Try an example:</strong>
+    <ul>
+      {% for ex in examples_s2 %}
+      <li>
+        <form method="POST" action="/" class="example-form">
+          <input type="hidden" name="showcase_id" value="2">
+          <input type="hidden" name="query" value="{{ ex }}">
+          <button type="submit" class="linklike">{{ ex }}</button>
+        </form>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <!-- Simplified result grid for Showcase 2 -->
+  <div class="result-grid-single">
+    <div class="panel answer">
+      <h3>Live Database Answer</h3>
+      <div class="panel-content">
+        <div class="llm-answer-box">
+          {% if result and result.get('query') and showcase_id == '2' %}
+            <!--Checking for the 'is_direct_answer' flag we added in app.py -->
+            {% if result.is_direct_answer %}
+              <p>{{ result.llm_answer | replace('\n', '<br>') | safe }}</p>
+            {% endif %}
+          {% else %}
+            <p class="placeholder">The live answer from the SQL agent will appear here.</p>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+
+  </div>
+
+  <footer>
+    <div class="portal-container">AI Agent Showcase &copy; 2025 | Local &amp; Private</div>
+  </footer>
+</body>
+</html>
