@@ -9,7 +9,7 @@ This project demonstrates two AI agent architectures, accessible through a singl
 
 Make sure the following are installed and running before starting the application:
 
-*   Python 3.9+
+*   Python 3.9+ #Note: This project requires Python 3.10 or 3.11. Python 3.12 is NOT supported.
 *   An Ollama server running locally. [ollama.com](https://ollama.com/).
 
 ### 2. Initial Setup
