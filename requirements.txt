@@ -1,5 +1,5 @@
-flask
-langchain-community
-sentence-transformers
-numpy
-faiss-cpu
+flask==3.0.3
+langchain-community==0.2.6
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+numpy<2
